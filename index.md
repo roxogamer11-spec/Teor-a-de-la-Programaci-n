@@ -3,7 +3,7 @@
 
 ### 📘 Unidad 1 – Fundamentos de la Programación  
 Explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
-[Unidad 1](jjjj/del/archivo.md)
+[Unidad 1](Unidad1.md)
 
 ### 🧩 Unidad 2 – Paradigmas y Estructuras  
 Estudio de los principales paradigmas (imperativo, orientado a objetos, funcional) y análisis de estructuras lógicas.
