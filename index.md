@@ -12,14 +12,10 @@
 Explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
 [Unidad 1](Unidad1.md)
 
-### 🧩 Unidad 2 – Paradigmas y Estructuras  
-Estudio de los principales paradigmas (imperativo, orientado a objetos, funcional) y análisis de estructuras lógicas.
-
-### ⚙️ Unidad 3 – Aplicaciones y Resolución de Problemas  
-Implementación de soluciones mediante el uso de lenguajes de programación y herramientas de desarrollo.
+### 🧩 Unidad 2 
+### ⚙️ Unidad 3 
 
 ### 🧭 Conclusiones  
-Reflexión sobre el aprendizaje adquirido y su aplicación práctica en el desarrollo de software.
 
 ### 📚 Referencias  
 Listado de fuentes bibliográficas, materiales de clase y enlaces de apoyo utilizados durante el proceso.
