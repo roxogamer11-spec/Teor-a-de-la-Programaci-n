@@ -21,4 +21,10 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 Listado de fuentes bibliográficas, materiales de clase y enlaces de apoyo utilizados durante el proceso.
 
 ### 🤖 Uso de la IA Cooperativa  
-Aplicación de herramientas de inteligencia artificial para el análisis, generación de código y asistencia en tareas de programación.
+
+En la cracion de este portafolio he utilizado herramientas de inteligencia artificial, como ChatGPT, únicamente como una forma de apoyo para mejorar la redacción, la organización de ideas y la claridad del texto. Todo el contenido presentado refleja mis propios conocimientos, reflexiones y criterios personales por lo que la IA fue empleada solo como una ayuda complementaria.
+
+
+
+
+
