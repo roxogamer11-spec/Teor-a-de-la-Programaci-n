@@ -9,7 +9,7 @@
 ## 👨‍🎓 Estudiante: Bayron Alexander Coronel Sarango
 
 ### 📘 Unidad 1 – Fundamentos de la Programación  
-Explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
+Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
 [Unidad 1](Unidad1.md)
 
 ### 🧩 Unidad 2 
