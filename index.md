@@ -18,7 +18,7 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 ### 🧭 Conclusiones  
 
 ### 📚 Referencias  
-Listado de fuentes bibliográficas, materiales de clase y enlaces de apoyo utilizados durante el proceso.
+[1] ESIC Business & Marketing School, “¿Qué es un algoritmo? Ejemplos de aplicación en la vida cotidiana,” Rethink by ESIC, 2024. [En línea]. Disponible en: https://www.esic.edu/rethink/tecnologia/que-es-un-algoritmo-ejemplos-de-aplicacion-en-la-vida-cotidiana-c
 
 ### 🤖 Uso de la IA Cooperativa  
 
