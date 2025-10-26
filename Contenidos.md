@@ -5,7 +5,7 @@ En la vida cotidiana usamos algoritmos sin darnos cuenta: cuando seguimos una re
 al dar indicaciones para llegar a un lugar.
 En programación, los algoritmos son fundamentales porque representan la base lógica de todo programa,
 antes de escribir código, debemos pensar y estructurar cómo se resolverá el problema,
-un buen algoritmo debe ser claro, preciso y finito, es decir, debe tener un inicio y un final definidos.
+un buen algoritmo debe ser claro, preciso y finito, es decir, debe tener un inicio y un final definidos.[1]
 
 🔄 **Diagrama de flujo**
 
