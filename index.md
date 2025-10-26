@@ -22,6 +22,8 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 
 [2] Miro, “¿Qué es un diagrama de flujo? Tipos, símbolos y ejemplos,” Miro Blog, 2024. [En línea]. Disponible en: https://miro.com/es/diagrama-de-flujo/que-es-diagrama-de-flujo/?utm_source=chatgpt.com#%C2%BFqu%C3%A9-es-un-diagrama-de-flujo
 
+[3] Codecademy, “Pseudocode and Flowchart: Complete Beginner’s Guide,” Codecademy, 2024. [En línea]. Disponible en: https://www.codecademy.com/article/pseudocode-and-flowchart-complete-beginners-guide?utm_source=chatgpt.com
+
 ### 🤖 Uso de la IA Cooperativa  
 
 En la cracion de este portafolio he utilizado herramientas de inteligencia artificial, como ChatGPT, únicamente como una forma de apoyo para mejorar la redacción, la organización de ideas y la claridad del texto. Todo el contenido presentado refleja mis propios criterios personales por lo que la IA fue empleada solo como una ayuda complementaria.
