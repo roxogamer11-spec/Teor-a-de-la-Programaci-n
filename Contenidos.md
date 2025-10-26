@@ -1,17 +1,12 @@
 🧩 **Algoritmos**
 
-Un algoritmo es una serie de pasos ordenados que nos permite resolver un problema o alcanzar un objetivo específico. 
-En la vida cotidiana usamos algoritmos sin darnos cuenta: cuando seguimos una receta de cocina, al organizar nuestro día o 
-al dar indicaciones para llegar a un lugar.
-En programación, los algoritmos son fundamentales porque representan la base lógica de todo programa,
-antes de escribir código, debemos pensar y estructurar cómo se resolverá el problema,
-un buen algoritmo debe ser claro, preciso y finito, es decir, debe tener un inicio y un final definidos.[1]
+Un algoritmo es una serie de pasos ordenados los cuales nos permiten resolver un problema o alcanzar un objetivo específico. 
+En la vida cotidiana usamos algoritmos sin darnos cuenta, un ejemplo seria cuando seguimos una receta de cocina, al organizar las actividades de nuestro día o al dar indicaciones para llegar a un lugar.
+En programación, los algoritmos son fundamentales porque representan la base lógica de todo programa, antes de escribir cualquier código, debemos pensar y estructurar cómo se resolverá el problema, un buen algoritmo debe ser claro y preciso, es decir, debe tener un inicio y un final definidos.[1]
 
 🔄 **Diagrama de flujo**
 
-El diagrama de flujo es una representación gráfica de un algoritmo. Usa símbolos para mostrar el tipo de operación que se realiza (inicio, proceso, decisión, entrada o salida de datos).
-Su principal ventaja es que permite visualizar la lógica del proceso antes de programarlo. Gracias a esto, podemos detectar errores, mejorar la organización y entender más fácilmente el funcionamiento de un sistema.
-En mi aprendizaje, elaborar diagramas de flujo me ayudó a pensar visualmente y a conectar la teoría con la práctica.
+El diagrama de flujo es una representación gráfica de un algoritmo o proceso, que utiliza símbolos estandarizados —como óvalos para el inicio y fin, rectángulos para procesos, rombos para decisiones y paralelogramos para entradas o salidas de datos—. Su principal ventaja es que permite visualizar la secuencia lógica de las operaciones antes de programarlas, facilitando la detección de errores, la optimización del proceso y una mejor comprensión del funcionamiento del sistema. En mi aprendizaje, elaborar diagramas de flujo me ayudó a pensar de forma visual, ordenar mis ideas y conectar la teoría con la práctica en la resolución de problemas.[2]
 
 💬 **Pseudocódigo**
 
