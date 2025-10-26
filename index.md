@@ -26,6 +26,8 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 
 [4] KeepCoding, “Programación en bloques: ¿Qué es y cómo aprender?,” KeepCoding Blog, 27-may-2025. [En línea]. Disponible en: https://keepcoding.io/blog/que-es-la-programacion-en-bloques/?utm_source=chatgpt.com
 
+[5] Codeando Simple, “Estructuras secuenciales en programación: definición y ejemplos,” Codeando Simple, 2025. [En línea]. Disponible en: https://codeandosimple.com/logica-estructuras-secuenciales.html?utm_source=chatgpt.com
+
 ### 🤖 Uso de la IA Cooperativa  
 
 En la cracion de este portafolio he utilizado herramientas de inteligencia artificial, como ChatGPT, únicamente como una forma de apoyo para mejorar la redacción, la organización de ideas y la claridad del texto. Todo el contenido presentado refleja mis propios criterios personales por lo que la IA fue empleada solo como una ayuda complementaria.
