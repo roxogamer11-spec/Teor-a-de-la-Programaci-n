@@ -14,9 +14,7 @@ El pseudocódigo es una forma intermedia entre el lenguaje natural y los lenguaj
 
 🧱 **Programación por bloques**
 
-La programación por bloques es una forma visual y sencilla de aprender a programar. En lugar de escribir código, se utilizan bloques gráficos que representan acciones o instrucciones, y que se pueden encajar entre sí como piezas de un rompecabezas.
-Este tipo de programación se usa mucho en entornos educativos, como Scratch o Blockly, porque facilita la comprensión de la lógica sin preocuparse por los errores de sintaxis.
-Al trabajar con bloques, comprendí que la programación no se trata solo de escribir código, sino de pensar de manera estructurada y creativa para construir soluciones.
+La programación por bloques es una forma visual y accesible de aprender a programar, ya que permite construir programas sin la necesidad de escribir un código tradicional. En lugar de lidiar con la sintaxis, se utilizan bloques gráficos que representan instrucciones o acciones, los cuales se pueden encajar entre sí como las piezas de un rompecabezas, esto  facilita la comprensión de la lógica del programa. Este enfoque se emplea ampliamente en entornos educativos como Scratch, debido a que ayuda a entender conceptos de programación desde una perspectiva práctica y divertida. Esto permite experimentar con la lógica de los programas de manera inmediata, visualizar cómo fluyen las instrucciones y detectar errores de forma intuitiva, lo que facilita el aprendizaje y la comprensión de conceptos clave de la programación incluso para principiantes y estudiantes jóvenes.[4]
 
 ⚙️ **Estructuras lineales o secuenciales**
 
