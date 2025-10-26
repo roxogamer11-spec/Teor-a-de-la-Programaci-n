@@ -6,13 +6,11 @@ En programación, los algoritmos son fundamentales porque representan la base l�
 
 🔄 **Diagrama de flujo**
 
-El diagrama de flujo es una representación gráfica de un algoritmo o proceso, que utiliza símbolos estandarizados —como óvalos para el inicio y fin, rectángulos para procesos, rombos para decisiones y paralelogramos para entradas o salidas de datos—. Su principal ventaja es que permite visualizar la secuencia lógica de las operaciones antes de programarlas, facilitando la detección de errores, la optimización del proceso y una mejor comprensión del funcionamiento del sistema. En mi aprendizaje, elaborar diagramas de flujo me ayudó a pensar de forma visual, ordenar mis ideas y conectar la teoría con la práctica en la resolución de problemas.[2]
+El diagrama de flujo es una representación gráfica de un algoritmo, que utiliza diferentes símbolos como óvalos para representar el inicio y fin, rectángulos para procesos, rombos para decisiones y paralelogramos para entradas o salidas de datos. La ventaja de un diagrama de  flujo es que permite visualizar la secuencia lógica de las operaciones antes de programarlas, facilitando la detección de errores, la optimización del proceso y una mejor comprensión del funcionamiento del sistema.[2]
 
 💬 **Pseudocódigo**
 
-El pseudocódigo es una forma intermedia entre el lenguaje natural (como el español) y un lenguaje de programación. Se usa para expresar algoritmos de manera textual, sin necesidad de conocer una sintaxis exacta.
-Sirve como puente entre la idea y la implementación. Escribir pseudocódigo me ayudó a estructurar mis pensamientos lógicamente, paso a paso, antes de pasar al código real.
-Por ejemplo, permite escribir algo como “Leer número1 y número2 → Sumar → Mostrar resultado”, lo cual es fácil de entender incluso para alguien que no sabe programar.
+El pseudocódigo es una forma intermedia entre el lenguaje natural y los lenguajes de programación, utilizada para describir algoritmos de manera estructurada y comprensible sin la necesidad de seguir una sintaxis específica. Combina expresiones del lenguaje común con una organización lógica similar a la del código real, lo que lo convierte en un puente entre la idea y la implementación. Su propósito es permitir que cualquier persona incluso sin conocimientos de programación pueda entender la secuencia de pasos de un algoritmo. Además, el pseudocódigo facilita la traducción del pensamiento lógico a estructuras de control reales, como bucles, condiciones y secuencias.[3]
 
 🧱 **Programación por bloques**
 
