@@ -20,7 +20,7 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 ### 📚 Referencias  
 [1] ESIC Business & Marketing School, “¿Qué es un algoritmo? Ejemplos de aplicación en la vida cotidiana,” Rethink by ESIC, 2024. [En línea]. Disponible en: https://www.esic.edu/rethink/tecnologia/que-es-un-algoritmo-ejemplos-de-aplicacion-en-la-vida-cotidiana-c
 
-[2] Miro, “¿Qué es un diagrama de flujo? Tipos, símbolos y ejemplos,” Miro Blog, 2024. [En línea]. Disponible en: https://miro.com/es/diagrama-de-flujo/que-es-diagrama-de-flujo/?utm_source=chatgpt.com#%C2%BFqu%C3%A9-es-un-diagrama-de-flujo?
+[2] Miro, “¿Qué es un diagrama de flujo? Tipos, símbolos y ejemplos,” Miro Blog, 2024. [En línea]. Disponible en: https://miro.com/es/diagrama-de-flujo/que-es-diagrama-de-flujo/?utm_source=chatgpt.com#%C2%BFqu%C3%A9-es-un-diagrama-de-flujo
 
 ### 🤖 Uso de la IA Cooperativa  
 
