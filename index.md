@@ -22,7 +22,7 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 
 ### 🤖 Uso de la IA Cooperativa  
 
-En la cracion de este portafolio he utilizado herramientas de inteligencia artificial, como ChatGPT, únicamente como una forma de apoyo para mejorar la redacción, la organización de ideas y la claridad del texto. Todo el contenido presentado refleja mis propios conocimientos, reflexiones y criterios personales por lo que la IA fue empleada solo como una ayuda complementaria.
+En la cracion de este portafolio he utilizado herramientas de inteligencia artificial, como ChatGPT, únicamente como una forma de apoyo para mejorar la redacción, la organización de ideas y la claridad del texto. Todo el contenido presentado refleja mis propios criterios personales por lo que la IA fue empleada solo como una ayuda complementaria.
 
 
 
