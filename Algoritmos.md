@@ -65,6 +65,11 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
              ▼
 
 
+
+
+
+
+
 ┌────────────────────────────┐
 │ Leer Certamen1             │
 │ Leer Certamen2             │
@@ -72,6 +77,11 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 └────────────┬───────────────┘
              │
              ▼
+
+
+
+
+
 
              
 ┌────────────────────────────┐
@@ -81,6 +91,13 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
              │
              ▼
 
+
+
+
+
+
+
+
              
 ┌────────────────────────────┐
 │ Mostrar “Para aprobar con  │
@@ -88,6 +105,11 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 └────────────┬───────────────┘
              │
              ▼
+
+
+
+
+
 
              
 ┌────────────────────────────┐
