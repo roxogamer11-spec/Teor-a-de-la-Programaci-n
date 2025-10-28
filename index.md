@@ -1,4 +1,7 @@
 # 💻 **PORTAFOLIO – UNIDAD 1**
+
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Feriberto8199%2Feriberto-banners%2F&psig=AOvVaw3wPZHpEIDYUwe9FY6XhVaM&ust=1761774137101000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIj2l6Lux5ADFQAAAAAdAAAAABAe)
+
 ## Teoría de la Programación
 ## 🏛️ Universidad Nacional de Loja
 ## ⚙️ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
