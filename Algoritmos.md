@@ -8,7 +8,9 @@ Un buen algoritmo debe ser claro, preciso y tener un inicio y un final definidos
 
 🔄 **Diagrama de flujo**
 
-El diagrama de flujo es una representación gráfica de un algoritmo, que utiliza diferentes símbolos como óvalos para representar el inicio y fin, rectángulos para procesos, rombos para decisiones y paralelogramos para entradas o salidas de datos. La ventaja de un diagrama de  flujo es que permite visualizar la secuencia lógica de las operaciones antes de programarlas, facilitando la detección de errores, la optimización del proceso y una mejor comprensión del funcionamiento del sistema.[2]
+El diagrama de flujo es una representación gráfica de un algoritmo que permite visualizar de manera clara y ordenada la secuencia lógica de las operaciones que se deben realizar. Para ello, se utilizan diferentes símbolos que representan elementos específicos del proceso: los óvalos indican el inicio y el fin, los rectángulos representan acciones o procesos, los rombos señalan decisiones o condiciones, y los paralelogramos se utilizan para entradas y salidas de datos. Esta forma de representación facilita la comprensión del algoritmo, ya que permite identificar cada paso y cómo se relaciona con los demás, haciendo evidente el flujo de información y las decisiones que se deben tomar en cada momento.
+
+Además, los diagramas de flujo son herramientas fundamentales para detectar errores, optimizar procesos y planificar programas más complejos antes de escribir código. Ayudan a organizar ideas, anticipar posibles problemas y mejorar la comunicación entre desarrolladores o estudiantes, incluso entre personas sin conocimientos avanzados de programación. Su uso refuerza el pensamiento lógico y estructurado, permitiendo diseñar algoritmos claros, eficientes y fáciles de implementar. En el ámbito educativo y profesional, dominar la creación y lectura de diagramas de flujo constituye una habilidad esencial para la resolución de problemas y la elaboración de programas efectivos.[2]
 
 💬 **Pseudocódigo**
 
