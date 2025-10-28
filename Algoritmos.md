@@ -2,9 +2,9 @@
 
 🧩 **Algoritmos**
 
-Un algoritmo es una serie de pasos ordenados los cuales nos permiten resolver un problema o alcanzar un objetivo específico. 
-En la vida cotidiana usamos algoritmos sin darnos cuenta, un ejemplo seria cuando seguimos una receta de cocina, al organizar las actividades de nuestro día o al dar indicaciones para llegar a un lugar.
-En programación, los algoritmos son fundamentales porque representan la base lógica de todo programa, antes de escribir cualquier código, debemos pensar y estructurar cómo se resolverá el problema, un buen algoritmo debe ser claro y preciso, es decir, debe tener un inicio y un final definidos.[1]
+Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o alcanzar un objetivo de manera lógica y eficiente. En la vida cotidiana usamos algoritmos constantemente sin darnos cuenta; por ejemplo, al seguir una receta de cocina, organizar nuestras actividades diarias o dar indicaciones para llegar a un lugar. Estos pasos nos ayudan a asegurarnos de que cada acción se realiza en el orden correcto para obtener el resultado esperado. En programación, los algoritmos son fundamentales porque constituyen la base lógica de todo programa: antes de escribir cualquier código, es necesario planificar y estructurar cómo se resolverá el problema.
+
+Un buen algoritmo debe ser claro, preciso y tener un inicio y un final definidos, evitando ambigüedades que puedan generar errores. Además, un algoritmo eficiente no solo resuelve el problema correctamente, sino que también optimiza recursos y tiempo, facilita la comprensión del programa por parte de otros desarrolladores y sirve como guía para la implementación en cualquier lenguaje de programación. Comprender y practicar la creación de algoritmos fortalece el pensamiento lógico, la capacidad de análisis y la resolución de problemas, habilidades esenciales tanto en la programación como en la vida cotidiana.[1]
 
 🔄 **Diagrama de flujo**
 
