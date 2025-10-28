@@ -8,3 +8,8 @@ Además, la programación por bloques fomenta la creatividad, ya que los estudia
 
 
 En resumen, la programación por bloques combina aprendizaje, práctica y diversión, haciendo que los conceptos de programación sean accesibles para todos, incluso para quienes no tienen experiencia previa. Su enfoque visual y experimental permite entender el flujo de un programa de manera clara, desarrollar habilidades de pensamiento lógico y creativo, y establecer una base sólida para futuros aprendizajes en el mundo de la programación..[4]
+
+
+**Ejemplo**
+
+https://drive.google.com/drive/folders/1icHgie_6Uq8MOxIGjcCzv4mnxFT7Telu?usp=drive_link
