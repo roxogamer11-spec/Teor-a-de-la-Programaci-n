@@ -1,1 +1,1 @@
-Algoritmos, diagrama de flujo y pseudocodigo
+**Algoritmos, diagrama de flujo y pseudocodigo**
