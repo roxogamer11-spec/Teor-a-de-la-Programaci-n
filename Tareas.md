@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1d8vgGA5xciustzpoaC5tziEZV0n27O1f?usp=dri
 https://drive.google.com/drive/folders/1pC9-ZsfZ_mdcIP8XTFqbUbLoXu0KrR2a?usp=drive_link
 
 💡 **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales (pseudocódigo)**
-https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
+https://drive.google.com/drive/folders/1AG23kYPrK1lNNsWxbBuhuza75UjvdBFY?usp=drive_link
 
 🖥️ **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
 https://drive.google.com/drive/folders/14oc7QnfC4BgZVXL1B4C2KXjZwSyJzSOC?usp=drive_link
