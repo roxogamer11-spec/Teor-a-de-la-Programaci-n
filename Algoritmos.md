@@ -22,3 +22,43 @@ El pseudocódigo es una herramienta que sirve como puente entre el lenguaje natu
 El pseudocódigo también facilita la traducción del pensamiento lógico a estructuras de control reales, como bucles, condicionales y secuencias de instrucciones. Al representar un algoritmo de esta manera, se pueden identificar errores, redundancias o pasos innecesarios antes de implementar el código en un lenguaje de programación específico. Esto ayuda a optimizar el proceso de desarrollo, reduce la posibilidad de fallos y hace más eficiente la escritura del programa final. Además, el pseudocódigo permite estandarizar y comunicar algoritmos entre diferentes personas o equipos, asegurando que todos comprendan la lógica detrás de un programa sin depender de un lenguaje de programación particular.
 
 Por último, el uso del pseudocódigo fortalece habilidades esenciales como el pensamiento lógico, la organización de ideas y la resolución de problemas, ya que obliga a descomponer un problema complejo en pasos simples y ordenados. Es una herramienta educativa fundamental para estudiantes de programación, ya que prepara el camino para escribir código real de manera más estructurada y eficiente. Además, al ser fácilmente entendible, permite revisar, mejorar y colaborar en algoritmos antes de su implementación, consolidando una base sólida para la programación profesional y para la creación de soluciones eficientes en cualquier contexto.[3]
+
+
+
+**Ejemplo**
+
+
+#include <stdio.h>
+
+int main() {
+    double Certamen1, Certamen2, Certamen3, NotaLaboratorio, Final;
+    printf("Ingrese el Certamen 1\n");
+    scanf("%i",&Certamen1);
+    printf("Ingrese el Certamen 2\n");
+    scanf("%i",&Certamen2);
+    printf("Ingrese la nota del Laboratorio\n");
+    scanf("%i",&Certamen3);
+    Final <- 60;
+    Certamen3 = (3 * (60 - (NotaLaboratorio * 0.3))) / 0.7 - ( Certamen1 + Certamen2);
+    printf("Para aprobar con una nota final de 60, necesitas obtener; %i\n", Certamen3);
+    return 0;
+
+}
+
+
+
+```mermaid
+flowchart TD
+    A([Inicio]) --> B[Leer Certamen1]
+    B --> C[Leer Certamen2]
+    C --> D[Leer NotaLaboratorio]
+    D --> E[Final ← 60]
+    E --> F[Calcular Certamen3 = (3*(60 - (NotaLaboratorio*0.3)))/0.7 - (Certamen1 + Certamen2)]
+    F --> G[Mostrar "Para aprobar con 60 necesitas: Certamen3"]
+    G --> H([Fin])
+
+
+
+
+
+
