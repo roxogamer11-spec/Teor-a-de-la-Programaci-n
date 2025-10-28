@@ -1,7 +1,6 @@
 # 💻 **PORTAFOLIO – UNIDAD 1**
 
-![Banner](<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/41b4b375-528b-4980-9639-470e917e0ec2" />
-)
+![Banner](images.md)
 
 ## Teoría de la Programación
 ## 🏛️ Universidad Nacional de Loja
