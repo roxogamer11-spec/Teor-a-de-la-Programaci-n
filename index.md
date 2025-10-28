@@ -12,6 +12,9 @@ Septiembre 2025 – Febrero 2026
 Ing. Lissette Geoconda López Faicán
 ## 👨‍🎓 Estudiante 
 Bayron Alexander Coronel Sarango
+---
+
+> *“Programar es convertir el pensamiento lógico en acción.”*
 
 ---
 
