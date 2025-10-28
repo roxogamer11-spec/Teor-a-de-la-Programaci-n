@@ -1,5 +1,4 @@
 **🖥️ Algoritmos | Flujos | Pseudocódigo 🖥️**
-
 [Primeros Pasos](Algoritmos.md)
 
 🧱 **Programación por bloques**
