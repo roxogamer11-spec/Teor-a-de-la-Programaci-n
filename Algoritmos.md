@@ -58,21 +58,21 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 
 **Diagrama de flujo**
 
-/---------/
-/ INICIO  /
-/---------/
+---------
+ INICIO  
+---------
   
    
    
-/-----------------------/ 
-/                       /
-/ Leer Certamen1        /
-/                       /
-/ Leer Certamen2        /
-/                       /
-/ Leer NotaLaboratorio  /
-/                       /
-/-----------------------/
+----------------------- 
+                       
+ Leer Certamen1        
+                       
+ Leer Certamen2        
+                       
+ Leer NotaLaboratorio  
+                       
+-----------------------
 
 
  
