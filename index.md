@@ -35,6 +35,10 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 En la cracion de este portafolio he utilizado herramientas de inteligencia artificial, como ChatGPT, únicamente como una forma de apoyo para mejorar la redacción, la organización de ideas y la claridad del texto. Todo el contenido presentado refleja mis propios criterios personales por lo que la IA fue empleada solo como una ayuda complementaria.
 
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Completado-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lenguaje-PSeInt-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Autor-Bayron%20Coronel-orange?style=for-the-badge">
+</p>
 
 
