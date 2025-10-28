@@ -1,6 +1,6 @@
 # 💻 **PORTAFOLIO – UNIDAD 1**
 
-![Banner](images.md)
+![Banner](images.png)
 
 ## Teoría de la Programación
 ## 🏛️ Universidad Nacional de Loja
