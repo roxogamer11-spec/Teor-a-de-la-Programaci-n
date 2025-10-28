@@ -14,7 +14,7 @@
 
 🚧 **Principales dificultades**
 
-[Problemas](Dificultades.md)
+❗[Problemas](Dificultades.md)❗
 
 💭 **Reflexión crítica**
 
