@@ -10,4 +10,4 @@ https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=dri
 https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
 
 🖥️ **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
-https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
+https://drive.google.com/drive/folders/14oc7QnfC4BgZVXL1B4C2KXjZwSyJzSOC?usp=drive_link
