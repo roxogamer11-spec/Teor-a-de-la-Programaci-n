@@ -37,7 +37,7 @@ En la cracion de este portafolio he utilizado herramientas de inteligencia artif
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Completado-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Lenguaje-PSeInt-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lenguaje-c-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Autor-Bayron%20Coronel-orange?style=for-the-badge">
 </p>
 
