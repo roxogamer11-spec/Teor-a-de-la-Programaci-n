@@ -10,7 +10,7 @@
 
 ⚙️ **Estructuras lineales o secuenciales**
 
-[E S T R U C T U R A](Estructura.md)
+🏗️[E🔧S⚙️T🔧R⚙️U🔧C⚙️T🔧U⚙️R🔧A](Estructura.md)🏛️
 
 🚧 **Principales dificultades**
 
