@@ -1,7 +1,7 @@
 📚 **Tareas Entregadas**
 
 🧩 **Herramientas de algoritmos (pseudocódigo y diagramas de flujo)**
-https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
+https://drive.google.com/drive/folders/1d8vgGA5xciustzpoaC5tziEZV0n27O1f?usp=drive_link
 
 ⚙️ **Instalación de lenguajes de programación (C, Python o Java)**
 https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
