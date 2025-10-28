@@ -28,9 +28,9 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 **Ejemplo**
 
 
-#include <stdio.h>
+📥#include <stdio.h>📥
 
-int main() {
+📥int main() {📥
     double Certamen1, Certamen2, Certamen3, NotaLaboratorio, Final;
     printf("Ingrese el Certamen 1\n");
     scanf("%i",&Certamen1);
@@ -41,22 +41,39 @@ int main() {
     Final <- 60;
     Certamen3 = (3 * (60 - (NotaLaboratorio * 0.3))) / 0.7 - ( Certamen1 + Certamen2);
     printf("Para aprobar con una nota final de 60, necesitas obtener; %i\n", Certamen3);
-    return 0;
+    📥return 0;📥
 
-}
+📥}
 
 
 
-```mermaid
-flowchart TD
-    A([Inicio]) --> B[Leer Certamen1]
-    B --> C[Leer Certamen2]
-    C --> D[Leer NotaLaboratorio]
-    D --> E[Final ← 60]
-    E --> F[Calcular Certamen3 = (3*(60 - (NotaLaboratorio*0.3)))/0.7 - (Certamen1 + Certamen2)]
-    F --> G[Mostrar "Para aprobar con 60 necesitas: Certamen3"]
-    G --> H([Fin])
-
+┌────────────────────────────┐
+│        INICIO              │
+└────────────┬───────────────┘
+             │
+             ▼
+┌────────────────────────────┐
+│ Leer Certamen1             │
+│ Leer Certamen2             │
+│ Leer NotaLaboratorio       │
+└────────────┬───────────────┘
+             │
+             ▼
+┌────────────────────────────┐
+│ Final ← 60                 │
+│ Certamen3 ← (3*(60-(NotaLaboratorio*0.3)))/0.7 - (Certamen1+Certamen2) │
+└────────────┬───────────────┘
+             │
+             ▼
+┌────────────────────────────┐
+│ Mostrar “Para aprobar con  │
+│ 60 necesitas: Certamen3”   │
+└────────────┬───────────────┘
+             │
+             ▼
+┌────────────────────────────┐
+│          FIN               │
+└────────────────────────────┘
 
 
 
