@@ -59,7 +59,11 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 
 
 ┌────────────────────────────┐
-│          INICIO            │
+│         
+           
+           INICIO     
+           
+           │
 └────────────┬───────────────┘
              │
              ▼
@@ -71,37 +75,15 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 
 
 ┌────────────────────────────┐
-│ Leer Certamen1             │
-│ Leer Certamen2             │
-│ Leer NotaLaboratorio       │
-└────────────┬───────────────┘
-             │
-             ▼
+│ 
 
+  Leer Certamen1   
+  
+│ Leer Certamen2
+│
+│ Leer NotaLaboratorio
 
-
-
-
-
-             
-┌────────────────────────────┐
-│ Final ← 60                 │
-│ Certamen3 ← (3*(60-(NotaLaboratorio*0.3)))/0.7 - (Certamen1+Certamen2) │
-└────────────┬───────────────┘
-             │
-             ▼
-
-
-
-
-
-
-
-
-             
-┌────────────────────────────┐
-│ Mostrar “Para aprobar con  │
-│ 60 necesitas: Certamen3”   │
+│
 └────────────┬───────────────┘
              │
              ▼
@@ -113,7 +95,50 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 
              
 ┌────────────────────────────┐
-│          FIN               │
+│ 
+
+
+    Final ← 60                 │
+│  
+    Certamen3 ← (3*(60-(NotaLaboratorio*0.3)))/0.7 - (Certamen1+Certamen2) 
+
+    
+└────────────┬───────────────┘
+             │
+             ▼
+
+
+
+
+
+
+
+
+             
+┌────────────────────────────┐
+│ 
+
+  Mostrar “Para aprobar con
+  
+│ 60 necesitas: Certamen3”
+
+│
+└────────────┬───────────────┘
+             │
+             ▼
+
+
+
+
+
+
+             
+┌────────────────────────────┐
+│         
+
+           FIN
+           
+           │
 └────────────────────────────┘
 
 
