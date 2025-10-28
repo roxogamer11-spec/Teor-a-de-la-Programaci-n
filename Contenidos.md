@@ -14,9 +14,7 @@
 
 🚧 **Principales dificultades**
 
-Durante el aprendizaje de esta unidad, una de las mayores dificultades que se presentaron fue traducir la lógica humana al lenguaje estructurado de los algoritmos.
-A veces resulta algo complicado visualizar todos los pasos necesarios o entender cómo representar decisiones y procesos en un diagrama o pseudocódigo. Sin embargo, con práctica se vuelve más clara la forma en cómo cada paso contribuye al resultado final.
-Reconocer los errores y aprender de ellos ha sido parte esencial del proceso de aprendizaje en esta unidad.
+[Problemas](Dificultades.md)
 
 💭 **Reflexión crítica**
 
