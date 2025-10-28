@@ -31,16 +31,27 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 📥#include <stdio.h>📥
 
 📥int main() {📥
-    double Certamen1, Certamen2, Certamen3, NotaLaboratorio, Final;
-    printf("Ingrese el Certamen 1\n");
+    
+    📥double Certamen1, Certamen2, Certamen3, NotaLaboratorio, Final;📥
+    
+    📥printf("Ingrese el Certamen 1\n");📥
+    
     scanf("%i",&Certamen1);
+    
     printf("Ingrese el Certamen 2\n");
+    
     scanf("%i",&Certamen2);
+    
     printf("Ingrese la nota del Laboratorio\n");
+    
     scanf("%i",&Certamen3);
+    
     Final <- 60;
+    
     Certamen3 = (3 * (60 - (NotaLaboratorio * 0.3))) / 0.7 - ( Certamen1 + Certamen2);
+    
     printf("Para aprobar con una nota final de 60, necesitas obtener; %i\n", Certamen3);
+    
     📥return 0;📥
 
 📥}
