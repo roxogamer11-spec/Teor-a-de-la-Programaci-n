@@ -4,7 +4,7 @@
 https://drive.google.com/drive/folders/1d8vgGA5xciustzpoaC5tziEZV0n27O1f?usp=drive_link
 
 ⚙️ **Instalación de lenguajes de programación (C, Python o Java)**
-https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
+https://drive.google.com/drive/folders/1pC9-ZsfZ_mdcIP8XTFqbUbLoXu0KrR2a?usp=drive_link
 
 💡 **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales (pseudocódigo)**
 https://drive.google.com/drive/folders/1ikd35loaTdu_veuuNzSOyhavGKfqS7wo?usp=drive_link
