@@ -13,6 +13,14 @@ Ing. Lissette Geoconda López Faicán
 ## 👨‍🎓 Estudiante 
 Bayron Alexander Coronel Sarango
 
+---
+
+> *“Los algoritmos son la base del pensamiento lógico que da vida a la tecnología.”*
+
+![Estado](https://img.shields.io/badge/Estado-Completado-green)
+
+---
+
 ### 📘 Unidad 1 – Fundamentos de la Programación  
 Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
 [🔑 El inicio de todo 🔑](Unidad1.md)
