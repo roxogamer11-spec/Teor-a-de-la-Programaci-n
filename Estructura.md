@@ -9,3 +9,7 @@ Estas estructuras son fundamentales en programación porque permiten planificar 
 Asimismo, el manejo de estructuras lineales fomenta la disciplina y la atención al detalle, cualidades esenciales en la programación. Permite que los estudiantes y programadores principiantes adquieran confianza en la creación de algoritmos simples antes de enfrentarse a proyectos más complejos. Con la práctica, la comprensión de las secuencias lineales se convierte en una herramienta poderosa que facilita la transición hacia estructuras más avanzadas, el diseño de programas eficientes y la implementación de soluciones completas a problemas del mundo real.
 
 En resumen, las estructuras secuenciales no solo son un concepto teórico fundamental, sino también una herramienta práctica que ayuda a organizar ideas, estructurar soluciones y fortalecer la lógica de programación, constituyendo el primer paso para convertirse en un programador competente y eficiente.[5]
+
+**Ejemplo**
+
+https://drive.google.com/drive/folders/1AQnv2Q5YKG4QEqGDLr9NlbZNlKNxPKw9?usp=drive_link
