@@ -1,5 +1,5 @@
-# 🧠 Teoría de la Programación  
-## 💻 Portafolio Digital de Aprendizaje
+# 💻 **PORTAFOLIO – UNIDAD 1**
+## Teoría de la Programación
 ## 🏛️ Universidad Nacional de Loja
 ## ⚙️ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 ## 📘 Asignatura 
