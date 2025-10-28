@@ -60,7 +60,6 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 
 ┌────────────────────────────┐
 │         
-           
            INICIO     
            
            │
@@ -98,9 +97,9 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 │ 
 
 
-    Final ← 60                 │
+   Final ← 60                 │
 │  
-    Certamen3 ← (3*(60-(NotaLaboratorio*0.3)))/0.7 - (Certamen1+Certamen2) 
+   Certamen3 ← (3*(60-(NotaLaboratorio*0.3)))/0.7 - (Certamen1+Certamen2) 
 
     
 └────────────┬───────────────┘
@@ -135,10 +134,8 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
              
 ┌────────────────────────────┐
 │         
-
-           FIN
+             FIN
            
-           │
 └────────────────────────────┘
 
 
