@@ -1,4 +1,3 @@
-**🖥️ Algoritmos | Flujos | Pseudocódigo 🖥️**
 
 🧩 **Algoritmos**
 
