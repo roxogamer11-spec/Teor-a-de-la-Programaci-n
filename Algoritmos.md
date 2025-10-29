@@ -5,6 +5,22 @@ Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o
 
 Comprender y practicar la creación de algoritmos fortalece el pensamiento lógico, la capacidad de análisis y la resolución de problemas, habilidades esenciales tanto en la programación como en la vida cotidiana. Además, desarrollar buenos algoritmos fomenta la disciplina, la organización y la anticipación de posibles errores, lo que contribuye a diseñar soluciones más eficientes y efectivas. A medida que se adquiere experiencia, se puede aplicar la lógica algorítmica a problemas más complejos, combinando secuencias, condicionales y bucles, y creando programas que no solo funcionen correctamente, sino que también sean óptimos, claros y fáciles de mantener.[1]
 
+**Ejemplo de un Algoritmo en PSeInt**
+
+Algoritmo Suma_de_Tres_Numeros
+	Definir n1 Como Real
+	Definir n2 Como Real
+	Definir n3 Como Real
+	Escribir 'Ingrese primer numero:'
+	Leer n1
+	Escribir 'Ingrese segundo numero:'
+	Leer n2
+	Escribir 'Ingrese tercer numero:'
+	Leer n3
+	Resultado <- n1+n2+n3
+	Escribir 'La suma de los numeros es:', Resultado
+FinAlgoritmo
+
 🔄 **Diagrama de flujo**
 
 El diagrama de flujo es una representación gráfica de un algoritmo que permite visualizar de manera clara y ordenada la secuencia lógica de las operaciones que se deben realizar. Esta herramienta utiliza diferentes símbolos que representan elementos específicos del proceso: los óvalos indican el inicio y el fin, los rectángulos representan acciones o procesos, los rombos señalan decisiones o condiciones, y los paralelogramos se utilizan para entradas y salidas de datos. La ventaja de esta representación visual es que facilita la comprensión del algoritmo, ya que permite identificar cada paso, su relación con los demás y el flujo de información, haciendo evidente dónde se toman decisiones y cómo afectan al resultado final.
