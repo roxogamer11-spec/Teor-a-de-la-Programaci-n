@@ -5,8 +5,7 @@ Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o
 
 Comprender y practicar la creación de algoritmos fortalece el pensamiento lógico, la capacidad de análisis y la resolución de problemas, habilidades esenciales tanto en la programación como en la vida cotidiana. Además, desarrollar buenos algoritmos fomenta la disciplina, la organización y la anticipación de posibles errores, lo que contribuye a diseñar soluciones más eficientes y efectivas. A medida que se adquiere experiencia, se puede aplicar la lógica algorítmica a problemas más complejos, combinando secuencias, condicionales y bucles, y creando programas que no solo funcionen correctamente, sino que también sean óptimos, claros y fáciles de mantener.[1]
 
-**Ejemplo de un Algoritmo en PSeInt**
-
+✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
 <img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
 
 🔄 **Diagrama de flujo**
