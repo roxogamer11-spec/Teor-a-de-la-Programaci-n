@@ -11,6 +11,9 @@ Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o
 
 El diagrama de flujo es una representación gráfica de un algoritmo que permite visualizar de manera clara y ordenada la secuencia lógica de las operaciones que se deben realizar. Esta herramienta utiliza diferentes símbolos que representan elementos específicos del proceso: los óvalos indican el inicio y el fin, los rectángulos representan acciones o procesos, los rombos señalan decisiones o condiciones, y los paralelogramos se utilizan para entradas y salidas de datos. La ventaja de esta representación visual es que facilita la comprensión del algoritmo, ya que permite identificar cada paso, su relación con los demás y el flujo de información, haciendo evidente dónde se toman decisiones y cómo afectan al resultado final.[2]
 
+✨**Ejemplo Práctico de un Diagrama de Flujo en PSeInt**✨
+
+<img width="519" height="515" alt="Captura de pantalla 2025-10-29 090441" src="https://github.com/user-attachments/assets/4732cbc3-964f-4fa5-9d69-9a809e584b49" />
 
 
 💬 **Pseudocódigo**
