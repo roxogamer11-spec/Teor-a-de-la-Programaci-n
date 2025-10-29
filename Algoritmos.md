@@ -19,8 +19,8 @@ Algoritmo Suma_de_Tres_Numeros
 	Escribir 'Ingrese primer numero:'
 	
 	Leer n1
-	Escribir 'Ingrese segundo numero:'
 	
+	Escribir 'Ingrese segundo numero:'
 	
 	Leer n2
 	
