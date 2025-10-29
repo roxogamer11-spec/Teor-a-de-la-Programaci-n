@@ -1,6 +1,6 @@
 # 💻 **PORTAFOLIO – UNIDAD 1**
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/75401f09-0328-42d6-aa24-7951c1537462" />
+<img width="1200" height="800" alt="image" src="https://github.com/15Galan/42_project-readmes/blob/master/banners/piscine/piscine-dark-dark.png?raw=true" />
 
 ## Teoría de la Programación
 ## 🏛️ Universidad Nacional de Loja
