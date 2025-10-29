@@ -2,14 +2,19 @@
 
 Las estructuras lineales o secuenciales son aquellas en las que las instrucciones se ejecutan una tras otra, siguiendo un orden específico y predeterminado. En este tipo de estructuras, cada paso debe realizarse exactamente en el orden establecido para garantizar que el resultado final sea el esperado. Su simplicidad las hace ideales para los primeros aprendizajes en programación, ya que permiten comprender de manera clara cómo fluye un algoritmo y cómo cada instrucción influye en el resultado final.
 
-Un ejemplo cotidiano de una estructura secuencial es seguir una receta de cocina paso a paso: primero se preparan los ingredientes, luego se mezclan, después se cocinan y finalmente se sirven. Si se omite o cambia algún paso, el resultado puede no ser el correcto. De manera similar, en programación, si se altera el orden de las instrucciones, el programa puede generar errores o resultados inesperados. Otro ejemplo podría ser llenar un formulario en línea, donde cada campo se completa en un orden lógico para que el sistema procese correctamente la información.
-
-Estas estructuras son fundamentales en programación porque permiten planificar y organizar el flujo de un algoritmo de forma clara, lo que facilita la lectura, comprensión y mantenimiento del código. Además, sirven como base sólida para aprender estructuras más complejas, como las condicionales, que permiten tomar decisiones según ciertas condiciones, y los bucles, que repiten acciones de manera controlada. Trabajar con secuencias lineales desarrolla habilidades de pensamiento lógico y resolución de problemas, ya que obliga a analizar cada paso antes de ejecutarlo, anticipando posibles errores y asegurando que cada instrucción cumpla su propósito.
-
-Asimismo, el manejo de estructuras lineales fomenta la disciplina y la atención al detalle, cualidades esenciales en la programación. Permite que los estudiantes y programadores principiantes adquieran confianza en la creación de algoritmos simples antes de enfrentarse a proyectos más complejos. Con la práctica, la comprensión de las secuencias lineales se convierte en una herramienta poderosa que facilita la transición hacia estructuras más avanzadas, el diseño de programas eficientes y la implementación de soluciones completas a problemas del mundo real.
-
-En resumen, las estructuras secuenciales no solo son un concepto teórico fundamental, sino también una herramienta práctica que ayuda a organizar ideas, estructurar soluciones y fortalecer la lógica de programación, constituyendo el primer paso para convertirse en un programador competente y eficiente.[5]
+Estas estructuras son fundamentales en programación porque permiten planificar y organizar el flujo de un algoritmo de forma clara, lo que facilita la lectura, comprensión y mantenimiento del código. Además, sirven como base sólida para aprender estructuras más complejas, como las condicionales, que permiten tomar decisiones según ciertas condiciones, y los bucles, que repiten acciones de manera controlada. Trabajar con secuencias lineales desarrolla habilidades de pensamiento lógico y resolución de problemas, ya que obliga a analizar cada paso antes de ejecutarlo, anticipando posibles errores y asegurando que cada instrucción cumpla su propósito.[5]
 
 **Ejemplo**
 
-https://drive.google.com/drive/folders/1AQnv2Q5YKG4QEqGDLr9NlbZNlKNxPKw9?usp=drive_link
+1️⃣ Estructura Secuencial
+
+La estructura secuencial es la más básica: las instrucciones se ejecutan una tras otra, en el orden en que están escritas.
+
+<img width="243" height="183" alt="Secu" src="https://github.com/user-attachments/assets/b4164e9d-ce90-445a-9661-277249c5ea84" />
+
+
+2️⃣ Estructura Lineal
+
+La estructura lineal muchas veces se asocia a una lista de instrucciones que se ejecutan de principio a fin, pero puede incluir operaciones repetitivas simples o asignaciones que crean un flujo “lineal” de datos.
+
+<img width="360" height="207" alt="LIne" src="https://github.com/user-attachments/assets/00e39f2a-4e02-4b2a-b239-56ccee55eb22" />
