@@ -1,6 +1,7 @@
 # 💻 **PORTAFOLIO – UNIDAD 1**
 
-<img width="1200" height="800" alt="image" src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/events/cybersecurity-bootcamp/projects/stockholm-dark.png" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/03be342e-cafd-4430-91bf-5cb780dd816c" />
+
 
 ## Teoría de la Programación
 ## 🏛️ Universidad Nacional de Loja
