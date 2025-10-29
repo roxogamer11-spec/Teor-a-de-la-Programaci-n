@@ -7,6 +7,17 @@ Comprender y practicar la creación de algoritmos fortalece el pensamiento lógi
 
 **Ejemplo de un Algoritmo en PSeInt**
 
+<img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
+
+
+
+
+
+
+
+
+
+
 
 🌟Algoritmo Suma_de_Tres_Numeros
 
