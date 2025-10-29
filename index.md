@@ -11,8 +11,9 @@ Primer Ciclo
 Septiembre 2025 – Febrero 2026
 ## 👩‍🏫 Docente 
 Ing. Lissette Geoconda López Faicán
-## 👨‍🎓 Estudiante 
+## 👨‍🎓 Estudiante
 Bayron Alexander Coronel Sarango
+
 ---
 
 > *“Programar es convertir el pensamiento lógico en acción.”*
