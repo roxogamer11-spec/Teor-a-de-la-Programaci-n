@@ -4,12 +4,10 @@ La programación por bloques es una forma visual y accesible de aprender a progr
 
 Este enfoque se utiliza ampliamente en entornos educativos como Scratch, App Inventor o Code.org, debido a que permite a los estudiantes experimentar de forma inmediata con la lógica de los programas. Al arrastrar y soltar bloques, los alumnos pueden ver cómo las instrucciones interactúan, cómo se ejecutan los bucles y condicionales, y cómo los eventos afectan el comportamiento del programa. Esta retroalimentación visual inmediata ayuda a comprender conceptos abstractos como secuencias, ciclos, variables y condiciones de manera práctica.
 
-Además, la programación por bloques fomenta la creatividad, ya que los estudiantes pueden construir animaciones, juegos y simulaciones sin temor a cometer errores de sintaxis. Esto permite explorar soluciones alternativas y aprender mediante prueba y error, fortaleciendo el pensamiento lógico y la capacidad de resolución de problemas. Los errores no resultan frustrantes, sino que se convierten en oportunidades de aprendizaje, ya que es fácil modificar, reorganizar o reemplazar bloques hasta encontrar la solución correcta.
-
-
 En resumen, la programación por bloques combina aprendizaje, práctica y diversión, haciendo que los conceptos de programación sean accesibles para todos, incluso para quienes no tienen experiencia previa. Su enfoque visual y experimental permite entender el flujo de un programa de manera clara, desarrollar habilidades de pensamiento lógico y creativo, y establecer una base sólida para futuros aprendizajes en el mundo de la programación..[4]
 
 
-**Ejemplo**
+**Ejemplo de Programación por Bloques**
 
-https://drive.google.com/drive/folders/1icHgie_6Uq8MOxIGjcCzv4mnxFT7Telu?usp=drive_link
+<img width="1600" height="861" alt="Programación por bloques" src="https://github.com/user-attachments/assets/fbcf5780-dc7f-4fd4-a32f-ee773ff574a1" />
+
