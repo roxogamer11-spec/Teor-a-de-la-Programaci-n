@@ -8,26 +8,33 @@ Comprender y practicar la creación de algoritmos fortalece el pensamiento lógi
 **Ejemplo de un Algoritmo en PSeInt**
 
 
-🌟 Algoritmo Suma_de_Tres_Numeros
+🌟Algoritmo Suma_de_Tres_Numeros
 
-🔹 Definir n1 Como Real
-🔹 Definir n2 Como Real
-🔹 Definir n3 Como Real
+   🔹 Definir n1 Como Real
 
-💬 Escribir 'Ingrese primer numero:'
-📥 Leer n1
+   🔹 Definir n2 Como Real
 
-💬 Escribir 'Ingrese segundo numero:'
-📥 Leer n2
+   🔹 Definir n3 Como Real
 
-💬 Escribir 'Ingrese tercer numero:'
-📥 Leer n3
+💬Escribir 'Ingrese primer numero:'
 
-🧮 Resultado <- n1 + n2 + n3
+   📥Leer n1
 
-💬 Escribir 'La suma de los numeros es:', Resultado
+💬Escribir 'Ingrese segundo numero:'
 
-🏁 FinAlgoritmo
+   📥Leer n2
+
+💬Escribir 'Ingrese tercer numero:'
+
+   📥Leer n3
+
+   🧮Resultado <- n1 + n2 + n3
+
+💬Escribir 'La suma de los numeros es:', Resultado
+
+🏁FinAlgoritmo
+
+
 
 🔄 **Diagrama de flujo**
 
