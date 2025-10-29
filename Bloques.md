@@ -1,4 +1,4 @@
-🧱 Programación por bloques
+🧱**Programación por bloques**🧱
 
 La programación por bloques es una forma visual y accesible de aprender a programar, ya que permite construir programas sin la necesidad de escribir un código tradicional. En lugar de preocuparse por la sintaxis exacta, se utilizan bloques gráficos que representan instrucciones, acciones o estructuras de control, los cuales se pueden encajar entre sí como las piezas de un rompecabezas. Esto hace que la programación sea mucho más intuitiva y ayuda a los principiantes a concentrarse en la lógica y el flujo de los programas, en lugar de en detalles técnicos del lenguaje.
 
