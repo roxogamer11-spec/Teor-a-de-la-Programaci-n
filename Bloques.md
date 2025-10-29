@@ -11,3 +11,8 @@ En resumen, la programación por bloques combina aprendizaje, práctica y divers
 
 <img width="1600" height="861" alt="Programación por bloques" src="https://github.com/user-attachments/assets/fbcf5780-dc7f-4fd4-a32f-ee773ff574a1" />
 
+**Mas Cencillo**
+
+<img width="874" height="395" alt="Captura de pantalla 2025-10-29 174016" src="https://github.com/user-attachments/assets/b9955050-2d09-49f1-9d4b-7b70200ef3be" />
+
+
