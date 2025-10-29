@@ -7,6 +7,8 @@ Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o
 
 <img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
 
+✨**Ejemplo Práctico de un Algoritmo en C**✨
+
 🔄 **Diagrama de flujo**
 
 El diagrama de flujo es una representación gráfica de un algoritmo que permite visualizar de manera clara y ordenada la secuencia lógica de las operaciones que se deben realizar. Esta herramienta utiliza diferentes símbolos que representan elementos específicos del proceso: los óvalos indican el inicio y el fin, los rectángulos representan acciones o procesos, los rombos señalan decisiones o condiciones, y los paralelogramos se utilizan para entradas y salidas de datos. La ventaja de esta representación visual es que facilita la comprensión del algoritmo, ya que permite identificar cada paso, su relación con los demás y el flujo de información, haciendo evidente dónde se toman decisiones y cómo afectan al resultado final.[2]
