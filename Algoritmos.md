@@ -151,6 +151,7 @@ Por último, el uso del pseudocódigo fortalece habilidades esenciales como el p
 
 [ **🔑🔑Tipos de Datos**🔑🔑](Datos.md)
 
+[ **🔑🔑Variables y Constantes**🔑🔑](Vari.md)
 
 
 
