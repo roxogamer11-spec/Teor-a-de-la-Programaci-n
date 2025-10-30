@@ -34,63 +34,64 @@ Para poder ralisar un Pseudocódigo o Algoritmo s edebe tomar en cuenta elpo de 
 
 📝Cadena (también conocidas como alfanuméricos)📝: La combinación de los caracteres forma una cadena. Ejemplo: “Calle 107 # 125-48A”, “Hola mundo”.
 
-# **Identificador**
+# 🔍**Identificador**🔍
 
 Es un nombre que se asigna a un elemento del programa, como una variable, una constante o una función. Este nombre sirve para reconocer y referirse a ese elemento dentro del código. Es importante que el identificador sea claro y descriptivo, de modo que indique de manera precisa qué representa o qué función cumple en el programa.
 
-**Caracteristicas de un Identificador**
+🔍**Caracteristicas de un Identificador**🔍
 
-Siempre debe comenzar por una letra o subguión. No debe empezar con número.
+➡️Siempre debe comenzar por una letra o subguión. No debe empezar con número.
 
-No debe tener Espacios en Blanco.
+➡️No debe tener Espacios en Blanco.
 
-No debe tener caracteres especiales (#, $, %, -,...).
+➡️No debe tener caracteres especiales (#, $, %, -,...).
 
-No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
+➡️No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
 
-# **Variables**
+# 🧪**Variables**🧪
 
 Es un identificador que almacena un valor que puede cambiar a lo largo de la ejecución del programa. Antes de ser usada en cualquier operación, la variable debe ser declarada, generalmente al inicio del programa. Cada variable tiene tres elementos principales: un nombre que la identifica, un tipo de dato que define qué tipo de información puede almacenar, y un valor inicial que puede asignarse al momento de la declaración, aunque este último es opcional.
 
-**Ejemplo una Variable**
+🧪**Ejemplo una Variable**🧪
 
 <img width="420" height="204" alt="Variables" src="https://github.com/user-attachments/assets/dfcbf481-be57-4c51-8c6d-914b47c280f2" />
 
-# **Constantes**
+# 🌀**Constantes**🌀
 
 Una constante es un identificador que almacena un valor fijo, el cual no puede modificarse mientras el programa se está ejecutando. Su valor permanece igual durante todo el proceso, se suele recomiendar escribir las constantes en letras mayúsculas para distinguirlas fácilmente de las variables.
 
-**Ejemplo una Constante**
+🌀**Ejemplo una Constante**🌀
 
 <img width="316" height="175" alt="Cons" src="https://github.com/user-attachments/assets/23948c08-6445-4f53-9d7b-f4d597ce929d" />
 
-# **Asignación**
+# ✅**Asignación**✅
 
 El valor de la expresión en el lado derecho debe ser de un tipo de datos compatible con la variable en el lado izquierdo, o se producirán resultados inesperados.
 Tambien se interpreta a la asignacion, como la acción de darle valor a una variable o constante. Se utiliza el signo ← o = como símbolo de asignación. 
 
-nota1 ← 5
-nota1 = 5
+➡️nota1 ← 5
 
-# **Entrada de datos (lectura)**
+➡️nota1 = 5
+
+# 📊**Entrada de datos (lectura)**📊
 
 Son instrucciones que permiten al usuario introducir información en el programa, ya sea por medio del teclado u otros dispositivos de entrada. Estos datos ingresados se utilizan luego para realizar operaciones o procesos dentro del algoritmo.
 
-**Ejemplo de la instruccion**
+💻**Ejemplo de la instruccion**💻
 
-Leer variable
+➡️Leer variable
 
-**Salida de datos (escritura)**
+📊**Salida de datos (escritura)**📊
 
 Son instrucciones que permiten presentar o mostrar los resultados generados por el programa al usuario. A través de ellas, el algoritmo comunica la información procesada, generalmente mediante la pantalla u otros medios de salida.
 
-**Ejemplos de la instruccion**
+💻**Ejemplos de la instruccion**v
 
-Escribir "Mensaje a visualizar"
-Visualizar el contenido o valor de una variable
+➡️Escribir "Mensaje a visualizar"
+➡️Visualizar el contenido o valor de una variable
 
-Escribir variable
-Visualizar un mensaje y el contenido de una variable
+➡️Escribir variable
+➡️Visualizar un mensaje y el contenido de una variable
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
 
@@ -98,7 +99,7 @@ Visualizar un mensaje y el contenido de una variable
 
 Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total de tres numeros lo cuales seran introducidos por el usuario, a estos numeros se los define como variables de tipo real denominadas n1, n2 y n3. A continuación, se solicita al usuario que introduzca cada uno de los tres números de manera secuencial. Una vez obtenidos los datos, el algoritmo realiza la operación correspondiente sumando los tres valores y guarda el resultado en una variable denominada Resultado. Finalmente, el programa muestra en pantalla el resultado de la suma, permitiendo al usuario visualizar el total obtenido.
 
-# **Expresiones**
+# 🧾**Expresiones**🧾
 
 <img width="549" height="168" alt="1" src="https://github.com/user-attachments/assets/607d123a-b6f7-4c1d-b9c2-abb2b2749bb6" />
 
@@ -110,6 +111,18 @@ Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total
 
 
 <img width="485" height="197" alt="4" src="https://github.com/user-attachments/assets/d483d35e-1c06-43a7-97f2-590c9f423233" />
+
+# 🧾**Expresiones por Computadora**🧾
+
+<img width="318" height="310" alt="cumpu" src="https://github.com/user-attachments/assets/8a8522dc-3b39-4772-836e-c52a4645623d" />
+
+# **Pruebas de escritorio**
+
+Consiste en simular los datos de entrada del algoritmo con el fin de verificar que los resultados obtenidos sean correctos. Si los resultados no coinciden con los esperados, es necesario revisar el análisis del problema y el código del algoritmo para identificar posibles errores. Una vez realizadas las correcciones, se repite la prueba hasta obtener los resultados esperados o correctos.
+
+# **Ejemplo**
+
+<img width="376" height="133" alt="escri " src="https://github.com/user-attachments/assets/eeb699a5-56cb-49c3-8b70-c711f783cf0e" />
 
 
 
