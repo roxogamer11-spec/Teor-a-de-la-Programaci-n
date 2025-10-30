@@ -38,7 +38,7 @@ Para poder ralisar un Pseudocódigo o Algoritmo s edebe tomar en cuenta elpo de 
 
 Es un nombre que se asigna a un elemento del programa, como una variable, una constante o una función. Este nombre sirve para reconocer y referirse a ese elemento dentro del código. Es importante que el identificador sea claro y descriptivo, de modo que indique de manera precisa qué representa o qué función cumple en el programa.
 
-🔍**Caracteristicas de un Identificador**🔍
+#🔍**Caracteristicas de un Identificador**🔍
 
 ➡️Siempre debe comenzar por una letra o subguión. No debe empezar con número.
 
