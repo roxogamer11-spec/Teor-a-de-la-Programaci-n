@@ -5,6 +5,8 @@
 
 ## 🏛️ Universidad Nacional de Loja
 ## ⚙️ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
+## 🏛️Carrera
+Computación 
 ## 📘 Asignatura 
 Teoría de la Programación
 ## 🧩 Ciclo 
