@@ -7,7 +7,7 @@ Este enfoque se utiliza ampliamente en entornos educativos como Scratch, App Inv
 En resumen, la programación por bloques combina aprendizaje, práctica y diversión, haciendo que los conceptos de programación sean accesibles para todos, incluso para quienes no tienen experiencia previa. Su enfoque visual y experimental permite entender el flujo de un programa de manera clara, desarrollar habilidades de pensamiento lógico y creativo, y establecer una base sólida para futuros aprendizajes en el mundo de la programación..[4]
 
 
-# 👾**Ejemplo de Programación por Bloques**👾
+# 👾**Ejemplos de Programación por Bloques**👾
 
 # ✅**Ejemplo 1**✅
 
