@@ -38,7 +38,7 @@ Para poder ralisar un Pseudocódigo o Algoritmo s edebe tomar en cuenta elpo de 
 
 Es un nombre que se asigna a un elemento del programa, como una variable, una constante o una función. Este nombre sirve para reconocer y referirse a ese elemento dentro del código. Es importante que el identificador sea claro y descriptivo, de modo que indique de manera precisa qué representa o qué función cumple en el programa.
 
-🔍**Caracteristicas de un Identificador**🔍
+# 🔍**Caracteristicas de un Identificador**🔍
 
 ➡️Siempre debe comenzar por una letra o subguión. No debe empezar con número.
 
@@ -52,7 +52,7 @@ Es un nombre que se asigna a un elemento del programa, como una variable, una co
 
 Es un identificador que almacena un valor que puede cambiar a lo largo de la ejecución del programa. Antes de ser usada en cualquier operación, la variable debe ser declarada, generalmente al inicio del programa. Cada variable tiene tres elementos principales: un nombre que la identifica, un tipo de dato que define qué tipo de información puede almacenar, y un valor inicial que puede asignarse al momento de la declaración, aunque este último es opcional.
 
-🧪**Ejemplo una Variable**🧪
+# 🧪**Ejemplo una Variable**🧪
 
 <img width="420" height="204" alt="Variables" src="https://github.com/user-attachments/assets/dfcbf481-be57-4c51-8c6d-914b47c280f2" />
 
@@ -60,7 +60,7 @@ Es un identificador que almacena un valor que puede cambiar a lo largo de la eje
 
 Una constante es un identificador que almacena un valor fijo, el cual no puede modificarse mientras el programa se está ejecutando. Su valor permanece igual durante todo el proceso, se suele recomiendar escribir las constantes en letras mayúsculas para distinguirlas fácilmente de las variables.
 
-🌀**Ejemplo una Constante**🌀
+# 🌀**Ejemplo una Constante**🌀
 
 <img width="316" height="175" alt="Cons" src="https://github.com/user-attachments/assets/23948c08-6445-4f53-9d7b-f4d597ce929d" />
 
@@ -81,7 +81,7 @@ Son instrucciones que permiten al usuario introducir información en el programa
 
 ➡️Leer variable
 
-#📊**Salida de datos (escritura)**📊
+# 📊**Salida de datos (escritura)**📊
 
 Son instrucciones que permiten presentar o mostrar los resultados generados por el programa al usuario. A través de ellas, el algoritmo comunica la información procesada, generalmente mediante la pantalla u otros medios de salida.
 
