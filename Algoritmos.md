@@ -20,6 +20,8 @@ Usualmente, para deteminar los procesos, se suele tomar en cuanta la siguiente p
 Son los resultados obtenidos después de ejecutar todos los procesos del algoritmo. Representan la información final que el programa muestra al usuario tras haber realizado los cálculos, operaciones o transformaciones necesarias. En otras palabras, las salidas son la respuesta o solución al problema planteado, generada a partir de las entradas procesadas por el algoritmo.
 Usualmente, para deteminar las salidas, se suele tomar en cuanta la siguiente pregunta: ¿Cuál es el resultado que se desea obtener?
 
+[ **🔑🔑Algoritmos en PSeInt**🔑🔑](PS.md)
+
 
 # 🧾**Expresiones**🧾
 
