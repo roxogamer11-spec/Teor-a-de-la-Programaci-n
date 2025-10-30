@@ -7,6 +7,8 @@ Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o
 
 <img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
 
+Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total de tres numeros lo cuales seran introducidos por el usuario, a estos numeros se los define como variables de tipo real denominadas n1, n2 y n3. A continuación, se solicita al usuario que introduzca cada uno de los tres números de manera secuencial. Una vez obtenidos los datos, el algoritmo realiza la operación correspondiente sumando los tres valores y guarda el resultado en una variable denominada Resultado. Finalmente, el programa muestra en pantalla el resultado de la suma, permitiendo al usuario visualizar el total obtenido.
+
 ✨**Ejemplo Práctico de un Algoritmo en C**✨
 
 <img width="380" height="250" alt="Captura de pantalla 2025-10-29 092339" src="https://github.com/user-attachments/assets/f3638ed8-3b5a-4e5f-9288-9f024f4a3be5" />
