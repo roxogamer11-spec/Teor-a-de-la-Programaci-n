@@ -24,15 +24,15 @@ Usualmente, para deteminar las salidas, se suele tomar en cuanta la siguiente pr
 
 Para poder ralisar un Pseudocódigo o Algoritmo s edebe tomar en cuenta elpo de datos que se van a usar, existen varios tipos de datos a los cuales se los identifica como:
 
-Enteros (int): valores que no tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 10, 120, 1200, etc.
+🔢Enteros (int)🔢: valores que no tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 10, 120, 1200, etc.
 
-Reales (float o double): valores que tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 4.5, 3.1416, 0.83, etc.
+🌊Reales (float o double)🌊: valores que tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 4.5, 3.1416, 0.83, etc.
 
-Lógicos (boolean): tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero.
+⚖️Lógicos (boolean)⚖️: tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero.
 
-Carácter (char): conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos; por ejemplo: “a”, “x”, “3”, “#”.
+✉️Carácter (char)✉️: conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos; por ejemplo: “a”, “x”, “3”, “#”.
 
-Cadena (también conocidas como alfanuméricos): La combinación de los caracteres forma una cadena. Ejemplo: “Calle 107 # 125-48A”, “Hola mundo”.
+📝Cadena (también conocidas como alfanuméricos)📝: La combinación de los caracteres forma una cadena. Ejemplo: “Calle 107 # 125-48A”, “Hola mundo”.
 
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
