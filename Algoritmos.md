@@ -77,15 +77,15 @@ Tambien se interpreta a la asignacion, como la acción de darle valor a una vari
 
 Son instrucciones que permiten al usuario introducir información en el programa, ya sea por medio del teclado u otros dispositivos de entrada. Estos datos ingresados se utilizan luego para realizar operaciones o procesos dentro del algoritmo.
 
-💻**Ejemplo de la instruccion**💻
+#💻**Ejemplo de la instruccion**💻
 
 ➡️Leer variable
 
-📊**Salida de datos (escritura)**📊
+#📊**Salida de datos (escritura)**📊
 
 Son instrucciones que permiten presentar o mostrar los resultados generados por el programa al usuario. A través de ellas, el algoritmo comunica la información procesada, generalmente mediante la pantalla u otros medios de salida.
 
-💻**Ejemplos de la instruccion**v
+#💻**Ejemplos de la instruccion**
 
 ➡️Escribir "Mensaje a visualizar"
 ➡️Visualizar el contenido o valor de una variable
