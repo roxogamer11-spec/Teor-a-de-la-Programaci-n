@@ -20,42 +20,6 @@ Usualmente, para deteminar los procesos, se suele tomar en cuanta la siguiente p
 Son los resultados obtenidos después de ejecutar todos los procesos del algoritmo. Representan la información final que el programa muestra al usuario tras haber realizado los cálculos, operaciones o transformaciones necesarias. En otras palabras, las salidas son la respuesta o solución al problema planteado, generada a partir de las entradas procesadas por el algoritmo.
 Usualmente, para deteminar las salidas, se suele tomar en cuanta la siguiente pregunta: ¿Cuál es el resultado que se desea obtener?
 
-# ✅**Asignación**✅
-
-El valor de la expresión en el lado derecho debe ser de un tipo de datos compatible con la variable en el lado izquierdo, o se producirán resultados inesperados.
-Tambien se interpreta a la asignacion, como la acción de darle valor a una variable o constante. Se utiliza el signo ← o = como símbolo de asignación. 
-
-➡️nota1 ← 5
-
-➡️nota1 = 5
-
-# 📊**Entrada de datos (lectura)**📊
-
-Son instrucciones que permiten al usuario introducir información en el programa, ya sea por medio del teclado u otros dispositivos de entrada. Estos datos ingresados se utilizan luego para realizar operaciones o procesos dentro del algoritmo.
-
-# 💻**Ejemplo de la instruccion**💻
-
-➡️Leer variable
-
-# 📊**Salida de datos (escritura)**📊
-
-Son instrucciones que permiten presentar o mostrar los resultados generados por el programa al usuario. A través de ellas, el algoritmo comunica la información procesada, generalmente mediante la pantalla u otros medios de salida.
-
-# 💻**Ejemplos de la instruccion**
-
-➡️Escribir "Mensaje a visualizar"
-
-➡️Visualizar el contenido o valor de una variable
-
-➡️Escribir variable
-
-➡️Visualizar un mensaje y el contenido de una variable
-
-# ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
-
-<img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
-
-Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total de tres numeros lo cuales seran introducidos por el usuario, a estos numeros se los define como variables de tipo real denominadas n1, n2 y n3. A continuación, se solicita al usuario que introduzca cada uno de los tres números de manera secuencial. Una vez obtenidos los datos, el algoritmo realiza la operación correspondiente sumando los tres valores y guarda el resultado en una variable denominada Resultado. Finalmente, el programa muestra en pantalla el resultado de la suma, permitiendo al usuario visualizar el total obtenido.
 
 # 🧾**Expresiones**🧾
 
