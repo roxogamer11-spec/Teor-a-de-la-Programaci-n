@@ -3,27 +3,27 @@
 
 Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o alcanzar un objetivo de manera lógica y eficiente. En la vida cotidiana usamos algoritmos constantemente sin darnos cuenta; por ejemplo, al seguir una receta de cocina, organizar nuestras actividades diarias, preparar una maleta para un viaje o dar indicaciones para llegar a un lugar. Estos pasos nos ayudan a asegurarnos de que cada acción se realiza en el orden correcto para obtener el resultado esperado. En programación, los algoritmos son fundamentales porque constituyen la base lógica de todo programa: antes de escribir cualquier línea de código, es necesario planificar y estructurar cómo se resolverá el problema, definiendo claramente cada paso y anticipando posibles dificultades que puedan surgir durante la ejecución.[1]
 
-✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
+# ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
 
 <img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
 
 Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total de tres numeros lo cuales seran introducidos por el usuario, a estos numeros se los define como variables de tipo real denominadas n1, n2 y n3. A continuación, se solicita al usuario que introduzca cada uno de los tres números de manera secuencial. Una vez obtenidos los datos, el algoritmo realiza la operación correspondiente sumando los tres valores y guarda el resultado en una variable denominada Resultado. Finalmente, el programa muestra en pantalla el resultado de la suma, permitiendo al usuario visualizar el total obtenido.
 
-✨**Ejemplo Práctico de un Algoritmo en C**✨
+# ✨**Ejemplo Práctico de un Algoritmo en C**✨
 
 <img width="380" height="250" alt="Captura de pantalla 2025-10-29 092339" src="https://github.com/user-attachments/assets/f3638ed8-3b5a-4e5f-9288-9f024f4a3be5" />
 
 
-🔄 **Diagrama de flujo**
+# 🔄 **Diagrama de flujo**
 
 El diagrama de flujo es una representación gráfica de un algoritmo que permite visualizar de manera clara y ordenada la secuencia lógica de las operaciones que se deben realizar. Esta herramienta utiliza diferentes símbolos que representan elementos específicos del proceso: los óvalos indican el inicio y el fin, los rectángulos representan acciones o procesos, los rombos señalan decisiones o condiciones, y los paralelogramos se utilizan para entradas y salidas de datos. La ventaja de esta representación visual es que facilita la comprensión del algoritmo, ya que permite identificar cada paso, su relación con los demás y el flujo de información, haciendo evidente dónde se toman decisiones y cómo afectan al resultado final.[2]
 
-✨**Ejemplo Práctico de un Diagrama de Flujo en PSeInt**✨
+# ✨**Ejemplo Práctico de un Diagrama de Flujo en PSeInt**✨
 
 <img width="519" height="515" alt="Captura de pantalla 2025-10-29 090441" src="https://github.com/user-attachments/assets/4732cbc3-964f-4fa5-9d69-9a809e584b49" />
 
 
-💬 **Pseudocódigo**
+# 💬 **Pseudocódigo**
 
 El pseudocódigo es una herramienta que sirve como puente entre el lenguaje natural y los lenguajes de programación, permitiendo describir algoritmos de manera clara y estructurada sin necesidad de seguir la sintaxis estricta de un lenguaje de programación. Se utiliza para expresar la lógica de un programa de forma comprensible, combinando expresiones del lenguaje cotidiano con una organización lógica similar a la del código real. Esto facilita que cualquier persona, incluso sin conocimientos previos de programación, pueda entender los pasos necesarios para resolver un problema o completar una tarea específica. Su uso es especialmente útil durante la fase de planificación de un algoritmo, ya que permite enfocarse en la lógica antes de preocuparse por detalles técnicos de codificación.
 
