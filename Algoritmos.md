@@ -98,6 +98,18 @@ Visualizar un mensaje y el contenido de una variable
 
 Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total de tres numeros lo cuales seran introducidos por el usuario, a estos numeros se los define como variables de tipo real denominadas n1, n2 y n3. A continuación, se solicita al usuario que introduzca cada uno de los tres números de manera secuencial. Una vez obtenidos los datos, el algoritmo realiza la operación correspondiente sumando los tres valores y guarda el resultado en una variable denominada Resultado. Finalmente, el programa muestra en pantalla el resultado de la suma, permitiendo al usuario visualizar el total obtenido.
 
+# **Expresiones: Ejemplos**
+
+<img width="549" height="168" alt="1" src="https://github.com/user-attachments/assets/607d123a-b6f7-4c1d-b9c2-abb2b2749bb6" />
+
+<img width="566" height="147" alt="2" src="https://github.com/user-attachments/assets/b7f323f3-8677-4bf7-a1ef-e3cf957ad984" />
+
+<img width="604" height="93" alt="3" src="https://github.com/user-attachments/assets/27f4b2ed-acc6-40ef-b642-345ed3c73ab5" />
+
+<img width="485" height="197" alt="4" src="https://github.com/user-attachments/assets/d483d35e-1c06-43a7-97f2-590c9f423233" />
+
+
+
 # ✨**Ejemplo Práctico de un Algoritmo en C**✨
 
 <img width="380" height="250" alt="Captura de pantalla 2025-10-29 092339" src="https://github.com/user-attachments/assets/f3638ed8-3b5a-4e5f-9288-9f024f4a3be5" />
