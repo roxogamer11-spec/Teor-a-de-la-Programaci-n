@@ -56,7 +56,41 @@ Es un identificador que almacena un valor que puede cambiar a lo largo de la eje
 
 <img width="420" height="204" alt="Variables" src="https://github.com/user-attachments/assets/dfcbf481-be57-4c51-8c6d-914b47c280f2" />
 
+# **Constantes**
 
+Una constante es un identificador que almacena un valor fijo, el cual no puede modificarse mientras el programa se está ejecutando. Su valor permanece igual durante todo el proceso, se suele recomiendar escribir las constantes en letras mayúsculas para distinguirlas fácilmente de las variables.
+
+**Ejemplo una Constante**
+
+<img width="316" height="175" alt="Cons" src="https://github.com/user-attachments/assets/23948c08-6445-4f53-9d7b-f4d597ce929d" />
+
+# **Asignación**
+
+El valor de la expresión en el lado derecho debe ser de un tipo de datos compatible con la variable en el lado izquierdo, o se producirán resultados inesperados.
+Tambien se interpreta a la asignacion, como la acción de darle valor a una variable o constante. Se utiliza el signo ← o = como símbolo de asignación. 
+
+nota1 ← 5
+nota1 = 5
+
+# **Entrada de datos (lectura)**
+
+Son instrucciones que permiten al usuario introducir información en el programa, ya sea por medio del teclado u otros dispositivos de entrada. Estos datos ingresados se utilizan luego para realizar operaciones o procesos dentro del algoritmo.
+
+**Ejemplo de la instruccion**
+
+Leer variable
+
+**Salida de datos (escritura)**
+
+Son instrucciones que permiten presentar o mostrar los resultados generados por el programa al usuario. A través de ellas, el algoritmo comunica la información procesada, generalmente mediante la pantalla u otros medios de salida.
+
+**Ejemplos de la instruccion**
+
+Escribir "Mensaje a visualizar"
+Visualizar el contenido o valor de una variable
+
+Escribir variable
+Visualizar un mensaje y el contenido de una variable
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
 
