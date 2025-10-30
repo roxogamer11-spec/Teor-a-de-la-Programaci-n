@@ -88,9 +88,11 @@ Son instrucciones que permiten presentar o mostrar los resultados generados por 
 # 💻**Ejemplos de la instruccion**
 
 ➡️Escribir "Mensaje a visualizar"
+
 ➡️Visualizar el contenido o valor de una variable
 
 ➡️Escribir variable
+
 ➡️Visualizar un mensaje y el contenido de una variable
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
