@@ -1,4 +1,4 @@
-🚧 Principales dificultades
+# **🚧 Principales dificultades**
 
 Durante el aprendizaje de esta unidad, una de las mayores dificultades que se presentaron fue traducir la lógica humana al lenguaje estructurado de los algoritmos. A menudo, resulta un desafío comprender cómo descomponer un problema complejo en pasos simples y precisos que puedan seguirse de manera lógica y ordenada. Traducir nuestras ideas y pensamientos, que suelen ser intuitivos, a un formato de pseudocódigo o un diagrama de flujo requiere no solo comprensión teórica, sino también mucha práctica y paciencia.
 
