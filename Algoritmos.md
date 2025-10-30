@@ -13,10 +13,12 @@ Usualmente, para deteminar las entradas, se suele tomar en cuanta la siguiente p
 ⚙️**Los Procesos**⚙️
 
 Son el conjunto de operaciones, cálculos o pasos que el algoritmo debe realizar para transformar las entradas en resultados. En esta etapa se lleva a cabo la transformacion de las entradas , aplicando fórmulas, comparaciones o instrucciones que permiten resolver el problema planteado. En otras palabras, los procesos constituyen el núcleo del algoritmo, donde se desarrolla el razonamiento que conduce a la solución.
+Usualmente, para deteminar los procesos, se suele tomar en cuanta la siguiente pregunta: ¿Cuáles son los pasos para llegar al resultado partiendo de los datos?
 
 💡**Las Salidas**💡
 
 Son los resultados obtenidos después de ejecutar todos los procesos del algoritmo. Representan la información final que el programa muestra al usuario tras haber realizado los cálculos, operaciones o transformaciones necesarias. En otras palabras, las salidas son la respuesta o solución al problema planteado, generada a partir de las entradas procesadas por el algoritmo.
+Usualmente, para deteminar las salidas, se suele tomar en cuanta la siguiente pregunta: ¿Cuál es el resultado que se desea obtener?
 
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
