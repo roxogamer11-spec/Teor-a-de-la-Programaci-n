@@ -5,16 +5,16 @@ Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o
 
 Un algoritmo esta compuesto por tres partes las cuales son:
 
-**Las Entradas**
+🟢**Las Entradas**🟢
 
 Son todos los datos o información que el usuario proporciona para que el algoritmo pueda realizar sus operaciones o procesos, es decir, las entradas representan los valores iniciales necesarios para que el algoritmo funcione correctamente y produzca un resultado. Sin las entradas adecuadas, el algoritmo no podría ejecutar sus cálculos ni generar salidas válidas.
 Usualmente, para deteminar las entradas, se suele tomar en cuanta la siguiente pregunta: ¿Qué datos necesito que me de otra persona para poder obtener la solución del problema?.
 
-**Los Procesos**
+⚙️**Los Procesos**⚙️
 
 Son el conjunto de operaciones, cálculos o pasos que el algoritmo debe realizar para transformar las entradas en resultados. En esta etapa se lleva a cabo la transformacion de las entradas , aplicando fórmulas, comparaciones o instrucciones que permiten resolver el problema planteado. En otras palabras, los procesos constituyen el núcleo del algoritmo, donde se desarrolla el razonamiento que conduce a la solución.
 
-**Las Salidas**
+💡**Las Salidas**💡
 
 Son los resultados obtenidos después de ejecutar todos los procesos del algoritmo. Representan la información final que el programa muestra al usuario tras haber realizado los cálculos, operaciones o transformaciones necesarias. En otras palabras, las salidas son la respuesta o solución al problema planteado, generada a partir de las entradas procesadas por el algoritmo.
 
