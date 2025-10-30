@@ -167,7 +167,7 @@ El pseudocódigo es una herramienta que sirve como puente entre el lenguaje natu
 Por último, el uso del pseudocódigo fortalece habilidades esenciales como el pensamiento lógico, la organización de ideas y la resolución de problemas, ya que obliga a descomponer un problema complejo en pasos simples y ordenados. Es una herramienta educativa fundamental para estudiantes de programación, ya que prepara el camino para escribir código real de manera más estructurada y eficiente. Además, al ser fácilmente entendible, permite revisar, mejorar y colaborar en algoritmos antes de su implementación, consolidando una base sólida para la programación profesional y para la creación de soluciones eficientes en cualquier contexto.[3]
 
 
-
+[ **🔑🔑Tipos de Datos**🔑🔑](Datos.md)
 
 
 
