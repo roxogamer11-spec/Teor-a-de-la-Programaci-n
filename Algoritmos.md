@@ -22,7 +22,7 @@ Usualmente, para deteminar las salidas, se suele tomar en cuanta la siguiente pr
 
 [ **🔑🔑Algoritmos en PSeInt**🔑🔑](PS.md)
 
-[ **🔑🔑Algoritmos en C**🔑🔑](c.md)
+[ **💡💡Algoritmos en C**💡💡](c.md)
 
 # 🔄 **Diagrama de flujo**
 
@@ -39,17 +39,17 @@ El pseudocódigo es una herramienta que sirve como puente entre el lenguaje natu
 
 Por último, el uso del pseudocódigo fortalece habilidades esenciales como el pensamiento lógico, la organización de ideas y la resolución de problemas, ya que obliga a descomponer un problema complejo en pasos simples y ordenados. Es una herramienta educativa fundamental para estudiantes de programación, ya que prepara el camino para escribir código real de manera más estructurada y eficiente. Además, al ser fácilmente entendible, permite revisar, mejorar y colaborar en algoritmos antes de su implementación, consolidando una base sólida para la programación profesional y para la creación de soluciones eficientes en cualquier contexto.[3]
 
-# **Mas Imformacion**
+📂# **Mas Información**📂
 
-[ **🔑🔑Tipos de Datos**🔑🔑](Datos.md)
+[ **💡Tipos de Datos**💡](Datos.md)
 
-[ **🔑🔑Variables y Constantes**🔑🔑](Vari.md)
+[ **📚Variables y Constantes**📚](Vari.md)
 
-[ **🔑🔑Expreciones y Expreciones por Computadora**🔑🔑](Expre.md)
+[ **⚙️Expreciones y Expreciones por Computadora**⚙️](Expre.md)
 
-[ **🔑🔑Pruebas de Escritorio**🔑🔑](Escri.md)
+[ **🛠️Pruebas de Escritorio**🛠️](Escri.md)
 
-[ **🔑🔑Lenguaje Compilado**🔑🔑](copi.md)
+[ **💾Lenguaje Compilado**💾](copi.md)
 
 
 
