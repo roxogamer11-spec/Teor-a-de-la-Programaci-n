@@ -3,6 +3,22 @@
 
 Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o alcanzar un objetivo de manera lógica y eficiente. En la vida cotidiana usamos algoritmos constantemente sin darnos cuenta; por ejemplo, al seguir una receta de cocina, organizar nuestras actividades diarias, preparar una maleta para un viaje o dar indicaciones para llegar a un lugar. Estos pasos nos ayudan a asegurarnos de que cada acción se realiza en el orden correcto para obtener el resultado esperado. En programación, los algoritmos son fundamentales porque constituyen la base lógica de todo programa: antes de escribir cualquier línea de código, es necesario planificar y estructurar cómo se resolverá el problema, definiendo claramente cada paso y anticipando posibles dificultades que puedan surgir durante la ejecución.[1]
 
+Un algoritmo esta compuesto por tres partes las cuales son:
+
+**Las Entradas**
+
+Son todos los datos o información que el usuario proporciona para que el algoritmo pueda realizar sus operaciones o procesos, es decir, las entradas representan los valores iniciales necesarios para que el algoritmo funcione correctamente y produzca un resultado. Sin las entradas adecuadas, el algoritmo no podría ejecutar sus cálculos ni generar salidas válidas.
+Usualmente, para deteminar las entradas, se suele tomar en cuanta la siguiente pregunta: ¿Qué datos necesito que me de otra persona para poder obtener la solución del problema?.
+
+**Los Procesos**
+
+Son el conjunto de operaciones, cálculos o pasos que el algoritmo debe realizar para transformar las entradas en resultados. En esta etapa se lleva a cabo la transformacion de las entradas , aplicando fórmulas, comparaciones o instrucciones que permiten resolver el problema planteado. En otras palabras, los procesos constituyen el núcleo del algoritmo, donde se desarrolla el razonamiento que conduce a la solución.
+
+**Las Salidas**
+
+Son los resultados obtenidos después de ejecutar todos los procesos del algoritmo. Representan la información final que el programa muestra al usuario tras haber realizado los cálculos, operaciones o transformaciones necesarias. En otras palabras, las salidas son la respuesta o solución al problema planteado, generada a partir de las entradas procesadas por el algoritmo.
+
+
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
 
 <img width="443" height="285" alt="Captura de pantalla 2025-10-29 085605" src="https://github.com/user-attachments/assets/9ee857fe-8a2e-4307-b347-fe25e0c69561" />
