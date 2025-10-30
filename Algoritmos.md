@@ -1,5 +1,5 @@
 
-🧩 **Algoritmos**
+# 🧩 **Algoritmos**
 
 Un algoritmo es una serie de pasos ordenados que permiten resolver un problema o alcanzar un objetivo de manera lógica y eficiente. En la vida cotidiana usamos algoritmos constantemente sin darnos cuenta; por ejemplo, al seguir una receta de cocina, organizar nuestras actividades diarias, preparar una maleta para un viaje o dar indicaciones para llegar a un lugar. Estos pasos nos ayudan a asegurarnos de que cada acción se realiza en el orden correcto para obtener el resultado esperado. En programación, los algoritmos son fundamentales porque constituyen la base lógica de todo programa: antes de escribir cualquier línea de código, es necesario planificar y estructurar cómo se resolverá el problema, definiendo claramente cada paso y anticipando posibles dificultades que puedan surgir durante la ejecución.[1]
 
