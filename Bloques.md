@@ -1,4 +1,4 @@
-🧱**Programación por bloques**🧱
+# 🧱**Programación por bloques**🧱
 
 La programación por bloques es una forma visual y accesible de aprender a programar, ya que permite construir programas sin la necesidad de escribir un código tradicional. En lugar de preocuparse por la sintaxis exacta, se utilizan bloques gráficos que representan instrucciones, acciones o estructuras de control, los cuales se pueden encajar entre sí como las piezas de un rompecabezas. Esto hace que la programación sea mucho más intuitiva y ayuda a los principiantes a concentrarse en la lógica y el flujo de los programas, en lugar de en detalles técnicos del lenguaje.
 
@@ -7,11 +7,13 @@ Este enfoque se utiliza ampliamente en entornos educativos como Scratch, App Inv
 En resumen, la programación por bloques combina aprendizaje, práctica y diversión, haciendo que los conceptos de programación sean accesibles para todos, incluso para quienes no tienen experiencia previa. Su enfoque visual y experimental permite entender el flujo de un programa de manera clara, desarrollar habilidades de pensamiento lógico y creativo, y establecer una base sólida para futuros aprendizajes en el mundo de la programación..[4]
 
 
-👾**Ejemplo de Programación por Bloques**👾
+# 👾**Ejemplo de Programación por Bloques**👾
+
+En la siguiente imagen se muestra un ejemplo complejo de programación por bloques. Como se puede ver, no es necesario escribir instrucciones para crear el algoritmo. En este tipo de programación, solo se unen los bloques o piezas que da el programa, como si fueran partes de un rompecabezas. Cada bloque cumple una función, y al juntarlos de forma correcta, se logra que el programa funcione según lo que se desea.
 
 <img width="1600" height="861" alt="Programación por bloques" src="https://github.com/user-attachments/assets/fbcf5780-dc7f-4fd4-a32f-ee773ff574a1" />
 
-**Mas Cencillo**
+
 
 <img width="874" height="395" alt="Captura de pantalla 2025-10-29 174016" src="https://github.com/user-attachments/assets/b9955050-2d09-49f1-9d4b-7b70200ef3be" />
 
