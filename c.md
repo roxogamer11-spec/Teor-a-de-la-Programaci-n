@@ -22,9 +22,9 @@ En el lenguaje C, el ingreso de datos se realiza principalmente a través del te
 
 # 🖥️**Ejemplo**🖥️
 
-printf("Ingrese un número: ");
+🏗️printf("Ingrese un número: ");
 
-scanf("%d", &numero);
+🏗️scanf("%d", &numero);
 
 # 📦**El símbolo "&" y las Mascaras**📦
 
