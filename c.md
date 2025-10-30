@@ -1,4 +1,4 @@
-# ⚡**Lenguaje de programacion de alto nivel**⚡
+# ⚡**Lenguaje de programación de alto nivel**⚡
 
 # 🧩**Codificación**🧩
 
