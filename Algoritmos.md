@@ -40,10 +40,13 @@ Es un nombre que se asigna a un elemento del programa, como una variable, una co
 
 **Caracteristicas de un Identificador**
 
--Siempre debe comenzar por una letra o subguión. No debe empezar con número.
--No debe tener Espacios en Blanco.
--No debe tener caracteres especiales (#, $, %, -,...).
--No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
+Siempre debe comenzar por una letra o subguión. No debe empezar con número.
+
+No debe tener Espacios en Blanco.
+
+No debe tener caracteres especiales (#, $, %, -,...).
+
+No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
 
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
