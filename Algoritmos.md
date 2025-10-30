@@ -13,6 +13,8 @@ Como se puede obserbar en la imagen, este algoritmo busca calcular la suma total
 
 <img width="380" height="250" alt="Captura de pantalla 2025-10-29 092339" src="https://github.com/user-attachments/assets/f3638ed8-3b5a-4e5f-9288-9f024f4a3be5" />
 
+Esta imagen muestra un ejemplo en el lenguaje C, el cual suma dos valores ingresados por el usuario al igual que en PSeInt. En primer lugar, se declaran tres variables de tipo double llamadas a, b y c, las cuales permiten almacenar los valores ingresados por el usuario. A continuación, el programa solicita al usuario que introduzca el primer y segundo. Luego, se realiza la operación correspondiente sumando las variables a y b, y el resultado se guarda en la variable c. Finalmente, mediante la función printf(), el programa muestra en pantalla el mensaje con el resultado obtenido.
+
 
 # 🔄 **Diagrama de flujo**
 
