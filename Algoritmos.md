@@ -48,6 +48,15 @@ No debe tener caracteres especiales (#, $, %, -,...).
 
 No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
 
+# **Variables**
+
+Es un identificador que almacena un valor que puede cambiar a lo largo de la ejecución del programa. Antes de ser usada en cualquier operación, la variable debe ser declarada, generalmente al inicio del programa. Cada variable tiene tres elementos principales: un nombre que la identifica, un tipo de dato que define qué tipo de información puede almacenar, y un valor inicial que puede asignarse al momento de la declaración, aunque este último es opcional.
+
+**Ejemplo una Variable**
+
+<img width="420" height="204" alt="Variables" src="https://github.com/user-attachments/assets/dfcbf481-be57-4c51-8c6d-914b47c280f2" />
+
+
 
 # ✨**Ejemplo Práctico de un Algoritmo en PSeInt**✨
 
