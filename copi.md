@@ -1,8 +1,8 @@
-# **Lenguaje compilado**
+# 📖**Lenguaje compilado**📖
 
 Un programa escrito en un lenguaje compilado necesita ser traducido mediante un software especial llamado compilador. Este compilador convierte el código fuente (escrito por el programador) en un programa objeto, que contiene instrucciones entendibles por la computadora. Posteriormente, este programa objeto se usa para generar un archivo ejecutable, el cual puede ejecutarse directamente sin requerir más traducciones. De esta forma, el compilador permite transformar el código del programador en un programa funcional que la máquina puede comprender y ejecutar.
 
-# **Ejemplo de un Lenguaje compilado**
+# 🔗**Ejemplo de un Lenguaje compilado**🔗
 
 <img width="451" height="140" alt="copi" src="https://github.com/user-attachments/assets/a17af2c5-0b6b-41e0-a245-54eb85f6d893" />
 
