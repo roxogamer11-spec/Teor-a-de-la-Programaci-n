@@ -17,4 +17,5 @@ La estructura secuencial es la más básica: las instrucciones se ejecutan una t
 
 La estructura lineal muchas veces se asocia a una lista de instrucciones que se ejecutan de principio a fin, pero puede incluir operaciones repetitivas simples o asignaciones que crean un flujo “lineal” de datos.
 
-<img width="360" height="207" alt="LIne" src="https://github.com/user-attachments/assets/00e39f2a-4e02-4b2a-b239-56ccee55eb22" />
+<img width="218" height="271" alt="linea" src="https://github.com/user-attachments/assets/fc3c6abf-b201-4a41-8e4b-4a92157857ef" />
+
