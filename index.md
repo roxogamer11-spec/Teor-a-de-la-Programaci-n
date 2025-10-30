@@ -32,7 +32,7 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 ### 🧭 Conclusiones  
 
 ### 📚 Referencias  
-[💡 Inspiraciones y Lecturas 💡](Referencias.md)
+[💡 Inspiraciones y Lecturas 💡](Datos/Referencias.md)
 
 ### 🤖 Uso de la IA Cooperativa  
 
