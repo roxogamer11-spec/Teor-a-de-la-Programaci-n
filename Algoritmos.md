@@ -38,7 +38,7 @@ Para poder ralisar un Pseudocódigo o Algoritmo s edebe tomar en cuenta elpo de 
 
 Es un nombre que se asigna a un elemento del programa, como una variable, una constante o una función. Este nombre sirve para reconocer y referirse a ese elemento dentro del código. Es importante que el identificador sea claro y descriptivo, de modo que indique de manera precisa qué representa o qué función cumple en el programa.
 
-#🔍**Caracteristicas de un Identificador**🔍
+🔍**Caracteristicas de un Identificador**🔍
 
 ➡️Siempre debe comenzar por una letra o subguión. No debe empezar con número.
 
@@ -77,7 +77,7 @@ Tambien se interpreta a la asignacion, como la acción de darle valor a una vari
 
 Son instrucciones que permiten al usuario introducir información en el programa, ya sea por medio del teclado u otros dispositivos de entrada. Estos datos ingresados se utilizan luego para realizar operaciones o procesos dentro del algoritmo.
 
-#💻**Ejemplo de la instruccion**💻
+# 💻**Ejemplo de la instruccion**💻
 
 ➡️Leer variable
 
@@ -85,7 +85,7 @@ Son instrucciones que permiten al usuario introducir información en el programa
 
 Son instrucciones que permiten presentar o mostrar los resultados generados por el programa al usuario. A través de ellas, el algoritmo comunica la información procesada, generalmente mediante la pantalla u otros medios de salida.
 
-#💻**Ejemplos de la instruccion**
+# 💻**Ejemplos de la instruccion**
 
 ➡️Escribir "Mensaje a visualizar"
 ➡️Visualizar el contenido o valor de una variable
