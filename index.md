@@ -28,7 +28,8 @@ Bayron Alexander Coronel Sarango
 Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
 [🔑 El inicio de todo 🔑](Datos/Unidad1.md)
 
-### 🧩 Unidad 2 
+### 🧩 Unidad 2 – Estructuras Condicionales
+En esta Unidad aprenderás a tomar decisiones dentro de un programa y a repetir acciones de forma controlada. 🔁💡
 ### ⚙️ Unidad 3 
 
 ### 🧭 Conclusiones  
