@@ -8,3 +8,9 @@
 
 # ⚙️**Estructura Condicional y Repetitiva**⚙️
 [🔧Ejercicio combinando🔧](Combinado.md)
+
+# ⚠️**Principales dificultades**⚠️
+[📌Dificultades📌](Dificultades.md)
+
+# 🧠**Reflexión crítica**🧠
+[📌Reflexión📌](Reflexion.md)
