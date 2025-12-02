@@ -14,3 +14,6 @@
 
 # 🧠**Reflexión crítica**🧠
 [📌Reflexión📌](Reflexion.md)
+
+# ✔️**Tareas entregadas**✔️
+[🗂️Tareas🗂️](Tareas.md)
