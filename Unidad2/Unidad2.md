@@ -5,3 +5,6 @@
 
 # 🧬**Estructuras repetitivas**🧬
 [📎Repetitivas📎](Repetitivas.md)
+
+# ⚙️**Estructura condicional y repetitiva**⚙️
+[🔧Ejercicio combinando🔧](Combinado.md)
