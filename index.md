@@ -26,10 +26,13 @@ Bayron Alexander Coronel Sarango
 
 ### 📘 Unidad 1 – Fundamentos de la Programación  
 Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estructuras de control.
+
 [🔑 El inicio de todo 🔑](Datos/Unidad1.md)
 
 ### 🧩 Unidad 2 – Estructuras Condicionales
 En esta Unidad aprenderás a tomar decisiones dentro de un programa y a repetir acciones de forma controlada. 🔁💡
+
+[🔑 Progresos🔑](Unidad2/Unidad2.md)
 ### ⚙️ Unidad 3 
 
 ### 🧭 Conclusiones  
