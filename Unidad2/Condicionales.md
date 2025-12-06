@@ -24,4 +24,5 @@ A continuacion se muestra un programa el cual solicita al usuario que ingrese un
 
 ## **Ejemplo en Diagrama de Flujo**
 
-<img width="697" height="433" alt="iF ELSE IF 2" src="https://github.com/user-attachments/assets/36e3545e-0a2d-4ca1-9608-cff052e49089" />
+<img width="478" height="478" alt="if else 2" src="https://github.com/user-attachments/assets/af97a5d7-6866-4f9b-8f08-d2e27822a457" />
+
