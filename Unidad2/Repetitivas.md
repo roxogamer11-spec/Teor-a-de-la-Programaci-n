@@ -4,11 +4,11 @@ El ciclo for se utiliza cuando se conoce previamente el número exacto de repeti
 
 A continuacion se muestra el ejemplo de un programa, el cual solicita al usuario que ingrese un número entre 1 y 10 y luego utiliza un ciclo for para generar y mostrar la tabla de multiplicar correspondiente a ese número. Después de leer el valor ingresado, el programa inicia un contador j que va desde 1 hasta 10, y en cada repetición calcula y muestra el resultado de multiplicar el número dado (i) por el valor actual del contador (j). Así, se imprimen todas las multiplicaciones desde i x 1 hasta i x 10. En resumen, el ejercicio produce la tabla de multiplicar del número que el usuario elige usando un ciclo repetitivo.
 
-
+<img width="605" height="658" alt="for" src="https://github.com/user-attachments/assets/687e5c42-46bc-439e-afc5-9feff2f0f544" />
 
 ## **Ejemplo en Diagrama de Flujo**
 
-
+<img width="687" height="506" alt="for 2" src="https://github.com/user-attachments/assets/4cee8b61-7de5-487c-b6d2-870c795b597c" />
 
 # **while**
 
