@@ -1,4 +1,4 @@
-⚠️# **Dificultades**⚠️
+# ⚠️**Dificultades**⚠️
 
 Una de mis principales dificultades al trabajar con el if simple es que, en ocasiones, no identifico correctamente cuándo una condición necesita únicamente una respuesta y cuándo sería más adecuado utilizar una estructura que contemple alternativas adicionales. Esto provoca que, a veces, mi programa no muestre los resultados que realmente espero, ya que el if simple solo ejecuta una acción cuando se cumple la condición, y si no se cumple, no ocurre nada. Esa ausencia de respuesta me genera confusión al momento de interpretar la salida del programa, especialmente cuando espero retroalimentación más completa.
 
