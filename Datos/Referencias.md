@@ -9,3 +9,5 @@
 [5] Codeando Simple, “Estructuras secuenciales en programación: definición y ejemplos,” Codeando Simple, 2025. [En línea]. Disponible en: https://codeandosimple.com/logica-estructuras-secuenciales.html?utm_source=chatgpt.com
 
 [6] Lenovo, “¿Qué es una condición IF?, y cómo se utiliza en programación?”, Lenovo Glosario, México. Disponible en: https://www.lenovo.com/mx/es/glosario/condicion-if/?orgRef=https%253A%252F%252Fwww.google.com%252F
+
+[7] JavAutodidacta, “if-else en Java: cómo utilizarlo, ejemplos y trampas”, JavAutodidacta, Disponible en: https://javautodidacta.es/if-else-en-java/?utm_source=chatgpt.com 
