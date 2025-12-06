@@ -14,4 +14,14 @@ A continuacion se muestra un ejemplo del If simple, en etse ejercicio solicita a
 <img width="571" height="487" alt="if simple 2" src="https://github.com/user-attachments/assets/40b5963e-8d3f-4a15-b002-65b96c0a0e92" />
 
 # **if – else**
+El IF–ELSE es una estructura de programación que permite que un programa elija entre dos caminos posibles según una condición lógica. 
+Primero se evalúa una condición y si resulta verdadera, entonces se ejecuta un primer bloque de instrucciones, y si es falsa, se ejecuta 
+un bloque alternativo. Esta estructura permite que el programa respondade manera diferente según la situación, haciendo que su comportamiento sea más flexible y dinámico[7].
 
+A continuacion se muestra un programa el cual solicita al usuario que ingrese una calificación y luego utiliza una estructura condicional if–else para evaluar ese valor. Si la nota ingresada es mayor o igual a 10, el programa muestra el mensaje "Aprobado", indicando que el estudiante cumple con el puntaje mínimo necesario. En caso contrario, es decir, si la nota es menor a 7, se ejecuta el bloque else y se muestra el mensaje "Reprobado". En resumen, el programa determina si un estudiante aprueba o reprueba según la calificación que ingresa.
+
+<img width="497" height="644" alt="if else" src="https://github.com/user-attachments/assets/0b3c7a66-f8c9-475c-93fc-0565842da57e" />
+
+## **Ejemplo en Diagrama de Flujo**
+
+<img width="697" height="433" alt="iF ELSE IF 2" src="https://github.com/user-attachments/assets/36e3545e-0a2d-4ca1-9608-cff052e49089" />
