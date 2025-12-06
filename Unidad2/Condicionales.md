@@ -13,5 +13,5 @@ A continuacion se muestra un ejemplo del If simple, en etse ejercicio solicita a
 
 <img width="571" height="487" alt="if simple 2" src="https://github.com/user-attachments/assets/40b5963e-8d3f-4a15-b002-65b96c0a0e92" />
 
-
+# **if – else**
 
