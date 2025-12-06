@@ -13,3 +13,5 @@
 [7] JavAutodidacta, “if-else en Java: cómo utilizarlo, ejemplos y trampas”, JavAutodidacta, Disponible en: https://javautodidacta.es/if-else-en-java/?utm_source=chatgpt.com 
 
 [8] L. Llamas, “El condicional IF-ELSEIF”, LuisLlamas.es. Disponible en: https://www.luisllamas.es/programacion-condicional-if-elseif/#:~:text=El%20condicional%20IF%2DELSEIF%20es,del%20resultado%20de%20cada%20condici%C3%B3n.&text=El%20condicional%20IF%2DELSEIF%20es%20una%20forma%20de%20evitar%20el,c%C3%B3moda%20y%20f%C3%A1cil%20de%20leer 
+
+[9] GeeksforGeeks, “Difference between For, While and Do-While Loop in Programming,” GeeksforGeeks, 2023. [En línea]. Disponible en: https://www.geeksforgeeks.org/dsa/difference-between-for-while-and-do-while-loop-in-programming/ 
