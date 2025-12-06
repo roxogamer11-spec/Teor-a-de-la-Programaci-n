@@ -4,15 +4,23 @@ El ciclo for se utiliza cuando se conoce previamente el número exacto de repeti
 
 A continuacion se muestra el ejemplo de un programa, el cual solicita al usuario que ingrese un número entre 1 y 10 y luego utiliza un ciclo for para generar y mostrar la tabla de multiplicar correspondiente a ese número. Después de leer el valor ingresado, el programa inicia un contador j que va desde 1 hasta 10, y en cada repetición calcula y muestra el resultado de multiplicar el número dado (i) por el valor actual del contador (j). Así, se imprimen todas las multiplicaciones desde i x 1 hasta i x 10. En resumen, el ejercicio produce la tabla de multiplicar del número que el usuario elige usando un ciclo repetitivo.
 
-<img width="594" height="585" alt="For" src="https://github.com/user-attachments/assets/4b55e982-d48a-4344-8ba5-b5e9e7bf21bd" />
+
 
 ## **Ejemplo en Diagrama de Flujo**
 
-<img width="707" height="487" alt="for 2" src="https://github.com/user-attachments/assets/9878b290-5936-4774-a49c-93e53d8c8c68" />
+
 
 # **while**
 
 El ciclo while ejecuta las instrucciones mientras la condición sea verdadera. Se recomienda usarlo cuando no se sabe con exactitud cuántas veces debe repetirse la acción, ya que depende del cumplimiento de una condición externa o del cambio de una variable dentro del mismo ciclo. Como evalúa la condición antes de entrar, es posible que el bloque nunca se ejecute si la condición es falsa desde el inicio[10].
+
+El siguiente programa tomado como ejemplo, solicita al usuario el número de la tabla de multiplicar que desea generar, siempre dentro del rango del 1 al 10. Después de leer ese valor, muestra un encabezado indicando la tabla seleccionada y utiliza un ciclo while para repetir las multiplicaciones desde 1 hasta 10. En cada iteración imprime la operación correspondiente, mostrando el número ingresado multiplicado por el contador i, el cual se incrementa en 1 en cada vuelta del ciclo. El proceso continúa mientras i sea menor o igual a 10, generando así toda la tabla de multiplicar seleccionada por el usuario.
+
+<img width="599" height="660" alt="while" src="https://github.com/user-attachments/assets/d55b128b-800e-4b20-aa4c-8111068513ee" />
+
+## **Ejemplo en Diagrama de Flujo**
+
+<img width="487" height="471" alt="while 2" src="https://github.com/user-attachments/assets/d59becd5-4c57-4094-8369-f8154e7a97b2" />
 
 # **Do - while**
 
