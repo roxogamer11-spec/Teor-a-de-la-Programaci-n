@@ -15,3 +15,7 @@
 [8] L. Llamas, “El condicional IF-ELSEIF”, LuisLlamas.es. Disponible en: https://www.luisllamas.es/programacion-condicional-if-elseif/#:~:text=El%20condicional%20IF%2DELSEIF%20es,del%20resultado%20de%20cada%20condici%C3%B3n.&text=El%20condicional%20IF%2DELSEIF%20es%20una%20forma%20de%20evitar%20el,c%C3%B3moda%20y%20f%C3%A1cil%20de%20leer 
 
 [9] GeeksforGeeks, “Difference between For, While and Do-While Loop in Programming,” GeeksforGeeks, 2023. [En línea]. Disponible en: https://www.geeksforgeeks.org/dsa/difference-between-for-while-and-do-while-loop-in-programming/ 
+
+[10] Newtum, “Loop in C: For, While, and Do-While Explained,” Newtum Programming Blog, 2022. [En línea]. Disponible en: https://blog.newtum.com/loop-in-c/?utm_source=chatgpt.com 
+
+[11] CProgramming.com, “Loops in C,” CProgramming, 2019. [En línea]. Disponible en: https://www.cprogramming.com/tutorial/c/lesson3.html?utm_source=chatgpt.com 
