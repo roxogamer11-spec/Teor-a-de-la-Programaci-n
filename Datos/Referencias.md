@@ -7,3 +7,5 @@
 [4] KeepCoding, “Programación en bloques: ¿Qué es y cómo aprender?,” KeepCoding Blog, 27-may-2025. [En línea]. Disponible en: https://keepcoding.io/blog/que-es-la-programacion-en-bloques/?utm_source=chatgpt.com
 
 [5] Codeando Simple, “Estructuras secuenciales en programación: definición y ejemplos,” Codeando Simple, 2025. [En línea]. Disponible en: https://codeandosimple.com/logica-estructuras-secuenciales.html?utm_source=chatgpt.com
+
+[6] Lenovo, “¿Qué es una condición IF?, y cómo se utiliza en programación?”, Lenovo Glosario, México. Disponible en: https://www.lenovo.com/mx/es/glosario/condicion-if/?orgRef=https%253A%252F%252Fwww.google.com%252F
