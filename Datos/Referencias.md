@@ -22,7 +22,8 @@
 
 [12] GeeksforGeeks, “Modularity and Interfaces in System Design,” GeeksforGeeks, 2025. [Online]. Available: https://www.geeksforgeeks.org/system-design/inroduction-to-modularity-and-interfaces-in-system-design/
 
-[13] Visure Solutions, “What is Modular Design?,” VisureSolutions.com, 2025. [Online]. Available: https://visuresolutions.com/plm-guide/modular-design/
+[13] Visure Solutions, “What is Modular Design?,” VisureSolutions.com, 2025. [Online]. Available: 
+https://visuresolutions.com/plm-guide/modular-design/
 
 [14] Software System Design, “Modular Design and Decoupling in Software Architecture,” SoftwareSystemDesign.com. [Online]. Available: https://softwaresystemdesign.com/high-level-design/architectural-principles/modular-design-and-decoupling/
 
