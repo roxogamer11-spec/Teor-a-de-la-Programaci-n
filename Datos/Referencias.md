@@ -38,3 +38,9 @@ https://visuresolutions.com/plm-guide/modular-design/
 [19] “Applications, Advantages and Disadvantages of Array Data Structure,” GeeksforGeeks, 10-Sep-2025. [Online]. Available: https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/
 
 [20] “Array Definition & Meaning in DSA,” GeeksforGeeks, 26-Jul-2025. [Online]. Available: https://www.geeksforgeeks.org/dsa/array-meaning-in-dsa/
+
+[21] “One Dimensional Arrays in C,” GeeksforGeeks, 23-Jul-2025. [Online]. Available: https://www.geeksforgeeks.org/one-dimensional-arrays-in-c/
+
+[22] “Multidimensional Arrays in C – 2D and 3D Arrays,” GeeksforGeeks, 14-Nov-2025. [Online]. Available: https://www.geeksforgeeks.org/c/multidimensional-arrays-in-c/
+
+[23] “Types of Arrays on the Basis of Dimensions,” GeeksforGeeks, 23-Jul-2025. [Online]. Available: https://www.geeksforgeeks.org/types-of-arrays/
