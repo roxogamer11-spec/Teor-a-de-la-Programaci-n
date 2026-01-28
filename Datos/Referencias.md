@@ -20,12 +20,12 @@
 
 [11] CProgramming.com, “Loops in C,” CProgramming, 2019. [En línea]. Disponible en: https://www.cprogramming.com/tutorial/c/lesson3.html?utm_source=chatgpt.com 
 
-[12]
+[12] GeeksforGeeks, “Modularity and Interfaces in System Design,” GeeksforGeeks, 2025. [Online]. Available: https://www.geeksforgeeks.org/system-design/inroduction-to-modularity-and-interfaces-in-system-design/
 
-[13]
+[13] Visure Solutions, “What is Modular Design?,” VisureSolutions.com, 2025. [Online]. Available: https://visuresolutions.com/plm-guide/modular-design/
 
-[14]
+[14] Software System Design, “Modular Design and Decoupling in Software Architecture,” SoftwareSystemDesign.com. [Online]. Available: https://softwaresystemdesign.com/high-level-design/architectural-principles/modular-design-and-decoupling/
 
-[15]
+[15] K. Kasata, “The Importance of Modularity in Modern Software Development,” Medium, 2025. [Online]. Available: https://kasata.medium.com/the-importance-of-modularity-in-modern-software-development-c63d75532af7
 
-[16]
+[16] TutorialsArena, “Modularity in Software Engineering,” TutorialsArena.com. [Online]. Available: https://www.tutorialsarena.com/fundamentals/software-engineering/modularity-in-software-engineering
