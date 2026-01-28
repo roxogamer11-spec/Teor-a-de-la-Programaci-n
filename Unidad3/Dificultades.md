@@ -1,4 +1,4 @@
-# **⚠️Principales dificultades en la aplicación de los contenidos⚠️**
+## **⚠️Principales dificultades en la aplicación de los contenidos⚠️**
 
 ## **1. ✅Tamaño fijo y desperdicio de memoria✅**
 
