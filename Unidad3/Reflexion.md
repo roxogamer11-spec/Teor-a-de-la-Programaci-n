@@ -1,4 +1,4 @@
-# **Reflexion**
+# **💭Reflexion💭**
 
 En todo lo que se ha visto sobre arreglos y modularidad, queda claro que son conceptos fundamentales en la programación y que se usan en casi cualquier programa. Los arreglos facilitan mucho el manejo de datos, ya que permiten guardar varios valores del mismo tipo en una sola estructura, evitando usar muchas variables separadas. Por su parte, la modularidad ayuda a que el código esté mejor organizado, dividiendo el programa en partes más pequeñas como funciones o módulos, lo que hace que sea más fácil de entender y de trabajar.
 
