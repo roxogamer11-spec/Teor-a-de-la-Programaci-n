@@ -15,3 +15,4 @@ Además de los arreglos simples, existen los arreglos multidimensionales, como l
 <img width="751" height="422" alt="arreglo bidimencional" src="https://github.com/user-attachments/assets/472dfb70-1ecc-4b91-b7c1-bbe174eceaa1" />
 
 ## **Arreglo tridimensional**
+<img width="736" height="487" alt="tridimencional" src="https://github.com/user-attachments/assets/2e36f2a9-f40c-44f4-ac08-19dc74406cfe" />
