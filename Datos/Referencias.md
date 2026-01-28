@@ -32,3 +32,9 @@ https://visuresolutions.com/plm-guide/modular-design/
 [16] “Pass by Value Vs Pass by Reference in C,” GeeksforGeeks, 22-Sep-2025. [Online]. Available: https://www.geeksforgeeks.org/c/difference-between-call-by-value-and-call-by-reference/
 
 [17] “Pass By Reference in C,” GeeksforGeeks, 19-Oct-2023. [Online]. Available: https://www.geeksforgeeks.org/pass-by-reference-in-c/
+
+[18] “Array Definition & Meaning in DSA,” GeeksforGeeks, 26-Jul-2025. [Online]. Available: https://www.geeksforgeeks.org/dsa/array-meaning-in-dsa/
+
+[19] “Applications, Advantages and Disadvantages of Array Data Structure,” GeeksforGeeks, 10-Sep-2025. [Online]. Available: https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/
+
+[20] “Array Definition & Meaning in DSA,” GeeksforGeeks, 26-Jul-2025. [Online]. Available: https://www.geeksforgeeks.org/dsa/array-meaning-in-dsa/
