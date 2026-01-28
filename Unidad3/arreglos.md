@@ -12,3 +12,4 @@ Además de los arreglos simples, existen los arreglos multidimensionales, como l
 <img width="762" height="436" alt="Uni dimencional" src="https://github.com/user-attachments/assets/de605e09-8928-4c78-a050-9c39767945b0" />
 
 ## **Arreglo bidimensional**
+<img width="751" height="422" alt="arreglo bidimencional" src="https://github.com/user-attachments/assets/472dfb70-1ecc-4b91-b7c1-bbe174eceaa1" />
