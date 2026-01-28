@@ -33,7 +33,9 @@ Esta Unidad explora los conceptos básicos de algoritmos, tipos de datos y estru
 En esta Unidad aprenderás a tomar decisiones dentro de un programa y a repetir acciones de forma controlada. 🔁💡
 
 [🔑 Progresos🔑](Unidad2/Unidad2.md)
-## ⚙️ Unidad 3 
+## ⚙️ Unidad 3
+
+[🔑 Progresos🔑](Unidad3/Unidad23.md)
 
 ### 🧭 Conclusiones  
 
