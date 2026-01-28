@@ -34,6 +34,7 @@ En esta Unidad aprenderás a tomar decisiones dentro de un programa y a repetir 
 
 [🔑 Progresos🔑](Unidad2/Unidad2.md)
 ## ⚙️ Unidad 3 - Modularidad y Arreglos
+Aprender a usar bien los arreglos y la modularidad permite escribir programas más ordenados, claros y fáciles de mejorar con el tiempo.
 
 [🔑 Finalizacion🔑](Unidad3/Unidad3.md)
 
