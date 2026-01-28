@@ -3,3 +3,5 @@
 # **Modularidad**
 
 # **Arreglos**
+
+# **Principales Dificultades**
