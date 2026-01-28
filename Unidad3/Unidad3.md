@@ -5,7 +5,7 @@
 [📡Modularida📡](modularidad.md)
 # **Arreglos**
 
-[📡Condicionales📡](Condicionales.md)
+[📡Arreglos📡](arreglos.md)
 # **Principales Dificultades**
 
 [📡Condicionales📡](Condicionales.md)
