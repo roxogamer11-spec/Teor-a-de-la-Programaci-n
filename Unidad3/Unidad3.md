@@ -2,10 +2,16 @@
 
 # **Modularidad**
 
+[📡Modularida📡](modularidad.md)
 # **Arreglos**
 
+[📡Condicionales📡](Condicionales.md)
 # **Principales Dificultades**
 
+[📡Condicionales📡](Condicionales.md)
 # **Reflexion Critica**
 
+[📡Condicionales📡](Condicionales.md)
 # **Tareas Entregadas**
+
+[📡Condicionales📡](Condicionales.md)
