@@ -12,3 +12,4 @@ Por otro lado, en el diseño de productos y sistemas físicos, la modularidad se
 <img width="725" height="422" alt="modularida 1" src="https://github.com/user-attachments/assets/8519e9b2-8495-45be-8de5-91db0bfc3afc" />
 
 ## **Paso de parámetro por referencia**
+<img width="733" height="405" alt="Modularidad 2" src="https://github.com/user-attachments/assets/d8aa1504-08b6-4198-8672-bac2b20ecf12" />
