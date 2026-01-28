@@ -3,15 +3,15 @@
 # **🧩Modularidad🧩**
 
 [📡Modularida📡](modularidad.md)
-# **Arreglos**
+# **📦Arreglos📦**
 
 [📡Arreglos📡](arreglos.md)
-# **Principales Dificultades**
+# **❌Principales Dificultades❌**
 
 [📡Dificultades📡](Dificultades.md)
-# **Reflexion Critica**
+# **✍️Reflexion Critica✍️**
 
 [📡Reflexion📡](Reflexion.md)
-# **Tareas Entregadas**
+# **🧠Tareas Entregadas🧠**
 
 [📡Tareas📡](Tareas.md)
