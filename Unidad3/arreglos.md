@@ -13,3 +13,5 @@ Además de los arreglos simples, existen los arreglos multidimensionales, como l
 
 ## **Arreglo bidimensional**
 <img width="751" height="422" alt="arreglo bidimencional" src="https://github.com/user-attachments/assets/472dfb70-1ecc-4b91-b7c1-bbe174eceaa1" />
+
+## **Arreglo tridimensional**
