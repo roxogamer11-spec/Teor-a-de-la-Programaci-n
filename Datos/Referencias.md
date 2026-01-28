@@ -29,4 +29,3 @@ https://visuresolutions.com/plm-guide/modular-design/
 
 [15] K. Kasata, “The Importance of Modularity in Modern Software Development,” Medium, 2025. [Online]. Available: https://kasata.medium.com/the-importance-of-modularity-in-modern-software-development-c63d75532af7
 
-[16] TutorialsArena, “Modularity in Software Engineering,” TutorialsArena.com. [Online]. Available: https://www.tutorialsarena.com/fundamentals/software-engineering/modularity-in-software-engineering
