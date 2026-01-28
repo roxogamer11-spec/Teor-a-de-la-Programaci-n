@@ -29,3 +29,6 @@ https://visuresolutions.com/plm-guide/modular-design/
 
 [15] K. Kasata, “The Importance of Modularity in Modern Software Development,” Medium, 2025. [Online]. Available: https://kasata.medium.com/the-importance-of-modularity-in-modern-software-development-c63d75532af7
 
+[16] “Pass by Value Vs Pass by Reference in C,” GeeksforGeeks, 22-Sep-2025. [Online]. Available: https://www.geeksforgeeks.org/c/difference-between-call-by-value-and-call-by-reference/
+
+[17] “Pass By Reference in C,” GeeksforGeeks, 19-Oct-2023. [Online]. Available: https://www.geeksforgeeks.org/pass-by-reference-in-c/
