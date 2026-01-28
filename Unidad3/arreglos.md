@@ -10,3 +10,5 @@ Además de los arreglos simples, existen los arreglos multidimensionales, como l
 
 ## **Arreglo unidimensional**
 <img width="762" height="436" alt="Uni dimencional" src="https://github.com/user-attachments/assets/de605e09-8928-4c78-a050-9c39767945b0" />
+
+## **Arreglo bidimensional**
