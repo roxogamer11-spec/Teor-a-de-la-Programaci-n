@@ -19,3 +19,13 @@
 [10] Newtum, “Loop in C: For, While, and Do-While Explained,” Newtum Programming Blog, 2022. [En línea]. Disponible en: https://blog.newtum.com/loop-in-c/?utm_source=chatgpt.com 
 
 [11] CProgramming.com, “Loops in C,” CProgramming, 2019. [En línea]. Disponible en: https://www.cprogramming.com/tutorial/c/lesson3.html?utm_source=chatgpt.com 
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
