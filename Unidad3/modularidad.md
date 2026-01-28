@@ -10,3 +10,5 @@ Por otro lado, en el diseño de productos y sistemas físicos, la modularidad se
 
 ## **Paso de parámetro por valor**
 <img width="725" height="422" alt="modularida 1" src="https://github.com/user-attachments/assets/8519e9b2-8495-45be-8de5-91db0bfc3afc" />
+
+## **Paso de parámetro por referencia**
