@@ -8,10 +8,10 @@
 [📡Arreglos📡](arreglos.md)
 # **Principales Dificultades**
 
-[📡Condicionales📡](Condicionales.md)
+[📡Dificultades📡](Dificultades.md)
 # **Reflexion Critica**
 
-[📡Condicionales📡](Condicionales.md)
+[📡Reflexion📡](Reflexion.md)
 # **Tareas Entregadas**
 
-[📡Condicionales📡](Condicionales.md)
+[📡Tareas📡](Tareas.md)
