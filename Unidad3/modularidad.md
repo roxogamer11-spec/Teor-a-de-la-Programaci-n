@@ -9,7 +9,13 @@ Por otro lado, en el diseño de productos y sistemas físicos, la modularidad se
 # **Ejemplos de Modularidad**
 
 ## **Paso de parámetro por valor**
+
+Cuando pasas un argumento por valor a una función en C, lo que realmente hace el lenguaje es crear una copia del valor y usar esa copia dentro de la función. Eso significa que los cambios que se hagan dentro de la función no afectan al valor original que está en el main, porque la función solo ve una copia del dato[16].
+
 <img width="725" height="422" alt="modularida 1" src="https://github.com/user-attachments/assets/8519e9b2-8495-45be-8de5-91db0bfc3afc" />
 
 ## **Paso de parámetro por referencia**
+
+En C no existe “paso por referencia” como tal en la sintaxis del lenguaje, pero puedes simularlo usando punteros: en lugar de enviar el valor, envías la dirección de memoria de una variable. De este modo, la función puede acceder y modificar el valor original usando esa dirección, lo que resulta en una forma práctica de pasar parámetros por referencia[17].
+
 <img width="733" height="405" alt="Modularidad 2" src="https://github.com/user-attachments/assets/d8aa1504-08b6-4198-8672-bac2b20ecf12" />
