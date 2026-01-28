@@ -5,3 +5,7 @@
 # **Arreglos**
 
 # **Principales Dificultades**
+
+# **Reflexion Critica**
+
+# **Tareas Entregadas**
